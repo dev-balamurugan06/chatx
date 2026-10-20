@@ -10,11 +10,16 @@ from db import get_db
 
 auth = Blueprint("auth", __name__)
 JWT_SECRET = os.getenv("JWT_SECRET", "").strip()
-if not JWT_SECRET:
-    if os.getenv("APP_ENV") == "production" or os.getenv("VERCEL_ENV") in {"production", "preview"}:
-        raise RuntimeError("Set JWT_SECRET before starting the production server.")
+IS_DEPLOYED = os.getenv("APP_ENV") == "production" or os.getenv("VERCEL_ENV") in {"production", "preview"}
+if not JWT_SECRET and not IS_DEPLOYED:
     JWT_SECRET = "change-this-secret-in-development"
 JWT_ALGORITHM = "HS256"
+
+
+def jwt_configuration_error():
+    if not JWT_SECRET:
+        return jsonify({"error": "Server authentication is not configured. Set JWT_SECRET in the deployment environment."}), 503
+    return None
 
 
 def create_token(user):
@@ -29,6 +34,10 @@ def create_token(user):
 def token_required(view):
     @wraps(view)
     def wrapped(*args, **kwargs):
+        config_error = jwt_configuration_error()
+        if config_error:
+            return config_error
+
         header = request.headers.get("Authorization", "")
         if not header.startswith("Bearer "):
             return jsonify({"error": "Authentication required"}), 401
@@ -50,6 +59,10 @@ def token_required(view):
 
 @auth.post("/signup")
 def signup():
+    config_error = jwt_configuration_error()
+    if config_error:
+        return config_error
+
     data = request.get_json(silent=True) or {}
     username = data.get("username", "").strip()
     email = data.get("email", "").strip().lower()
@@ -83,6 +96,10 @@ def signup():
 
 @auth.post("/login")
 def login():
+    config_error = jwt_configuration_error()
+    if config_error:
+        return config_error
+
     data = request.get_json(silent=True) or {}
     email = data.get("email", "").strip().lower()
     password = data.get("password", "")
