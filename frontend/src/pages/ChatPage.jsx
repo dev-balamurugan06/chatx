@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 import Sidebar from "../components/Sidebar";
 import ChatWindow from "../components/ChatWindow";
-import { createChat, getChats, removeChat, updateChat } from "../services/api";
+import { createChat, getApiErrorMessage, getChats, removeChat, updateChat } from "../services/api";
 
 export default function ChatPage() {
   const [chats, setChats] = useState([]);
@@ -19,7 +19,7 @@ export default function ChatPage() {
       setChats(items);
       setActiveChatId((current) => items.some((chat) => chat.id === current) ? current : items[0]?.id ?? null);
     } catch (error) {
-      setPageError(error.response?.data?.error || "Could not load your chats. Check the server and try again.");
+      setPageError(getApiErrorMessage(error, "Could not load your chats. Check the server and try again."));
     } finally {
       setLoading(false);
     }
@@ -37,7 +37,7 @@ export default function ChatPage() {
       setShowArchived(false);
       setPageError("");
     } catch (error) {
-      setPageError(error.response?.data?.error || "Could not create a new chat.");
+      setPageError(getApiErrorMessage(error, "Could not create a new chat."));
     }
   }, []);
 
@@ -55,7 +55,7 @@ export default function ChatPage() {
         }
       }
     } catch (error) {
-      setPageError(error.response?.data?.error || "Could not update this chat.");
+      setPageError(getApiErrorMessage(error, "Could not update this chat."));
     }
   };
 
@@ -66,7 +66,7 @@ export default function ChatPage() {
       setChats(remaining);
       if (activeChatId === id) setActiveChatId(remaining[0]?.id ?? null);
     } catch (error) {
-      setPageError(error.response?.data?.error || "Could not delete this chat.");
+      setPageError(getApiErrorMessage(error, "Could not delete this chat."));
     }
   };
 

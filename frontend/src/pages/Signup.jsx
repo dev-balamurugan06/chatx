@@ -1,5 +1,5 @@
 import { useState } from "react";
-import api from "../services/api";
+import api, { getApiErrorMessage } from "../services/api";
 
 export default function Signup({ onSignup }) {
   const [username, setUsername] = useState("");
@@ -17,7 +17,7 @@ export default function Signup({ onSignup }) {
       await api.post("/auth/signup", { username, email, password });
       onSignup();
     } catch (err) {
-      setError(err.response?.data?.error || "Could not connect to the server. Try again.");
+      setError(getApiErrorMessage(err, "Could not connect to the server. Try again."));
     } finally {
       setLoading(false);
     }

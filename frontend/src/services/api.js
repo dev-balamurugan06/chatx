@@ -6,6 +6,16 @@ const api = axios.create({
   baseURL: API_URL,
 });
 
+export const getApiErrorMessage = (error, fallback) => {
+  const responseBody = error?.response?.data;
+  const candidates = [
+    responseBody?.error,
+    responseBody?.error?.message,
+    responseBody?.message,
+  ];
+  return candidates.find((value) => typeof value === "string" && value.trim())?.trim() || fallback;
+};
+
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem("token");
   if (token) config.headers.Authorization = `Bearer ${token}`;
