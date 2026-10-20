@@ -55,10 +55,7 @@ Frontend: `http://localhost:5173`
 
 ## Deploy to Vercel
 
-The frontend and Flask API are separate Vercel projects because they live in separate folders. Import `dev-balamurugan06/chatx` twice:
-
-1. **Frontend project:** set the Root Directory to `frontend`. Vercel detects Vite and uses the included `vercel.json` for SPA routes. Add `VITE_API_URL` with the deployed backend project's base URL, such as `https://chatx-api.vercel.app`, then deploy.
-2. **Backend project:** set the Root Directory to `backend`. Vercel detects the Flask app in `app.py`. Add the environment variables below, then deploy.
+Import `dev-balamurugan06/chatx` as one Vercel project with the repository root (`./`) selected. Vercel detects the `backend` Flask service and `frontend` Vite service. The root `vercel.json` routes `/api/*` to Flask and all other paths to the frontend. The frontend uses `/api` by default, so both services share the same Vercel domain.
 
 The API requires an externally hosted MySQL database. Create the database and tables using `database/schema.sql`, then set:
 
@@ -74,7 +71,7 @@ The API requires an externally hosted MySQL database. Create the database and ta
 | `OPENAI_API_KEY` | Optional; leave unset to use the offline knowledge base |
 | `OPENAI_MODEL` | Optional; defaults to `gpt-4o-mini` |
 
-Set `VITE_API_URL` to the backend deployment's base URL (without a trailing slash). Vercel rebuilds the frontend with that value, so redeploy the frontend after changing it.
+Set the environment variables on the Vercel project before deploying. `VITE_API_URL` is normally not needed; leave it unset so the frontend uses `/api` on the same domain.
 
 ## Notes
 

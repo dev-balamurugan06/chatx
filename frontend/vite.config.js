@@ -6,10 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      "/auth": "http://127.0.0.1:5000",
-      "/chats": "http://127.0.0.1:5000",
-      "/chat": "http://127.0.0.1:5000",
-      "/health": "http://127.0.0.1:5000",
+      "/api": "http://127.0.0.1:5000",
     },
   },
 })

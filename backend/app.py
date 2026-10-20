@@ -15,7 +15,7 @@ app.config["MAX_CONTENT_LENGTH"] = 26 * 1024 * 1024
 FRONTEND_DIST = Path(os.getenv("FRONTEND_DIST", Path(__file__).resolve().parent / "frontend_dist"))
 CORS(app, resources={r"/*": {"origins": "*"}})
 app.teardown_appcontext(close_db)
-app.register_blueprint(auth, url_prefix="/auth")
+app.register_blueprint(auth, url_prefix="/api/auth")
 
 
 def chat_belongs_to_user(cursor, chat_id):
@@ -68,12 +68,12 @@ def serialize_chat(cursor, chat):
     }
 
 
-@app.get("/health")
+@app.get("/api/health")
 def health():
     return jsonify({"status": "ok"})
 
 
-@app.get("/chats")
+@app.get("/api/chats")
 @token_required
 def list_chats():
     ensure_attachment_schema()
@@ -88,7 +88,7 @@ def list_chats():
     return jsonify({"chats": chats})
 
 
-@app.post("/chats")
+@app.post("/api/chats")
 @token_required
 def create_chat():
     ensure_attachment_schema()
@@ -105,7 +105,7 @@ def create_chat():
     return jsonify(chat), 201
 
 
-@app.patch("/chats/<int:chat_id>")
+@app.patch("/api/chats/<int:chat_id>")
 @token_required
 def update_chat(chat_id):
     data = request.get_json(silent=True) or {}
@@ -129,7 +129,7 @@ def update_chat(chat_id):
     return jsonify(chat)
 
 
-@app.delete("/chats/<int:chat_id>")
+@app.delete("/api/chats/<int:chat_id>")
 @token_required
 def delete_chat(chat_id):
     db = get_db()
@@ -143,7 +143,7 @@ def delete_chat(chat_id):
     return jsonify({"message": "Chat deleted"})
 
 
-@app.post("/chat")
+@app.post("/api/chat")
 @token_required
 def chat():
     if request.is_json:
