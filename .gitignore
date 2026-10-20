@@ -17,6 +17,7 @@ dist-ssr/
 # Local tooling and operating system files
 .vscode/
 .idea/
+.vercel/
 .DS_Store
 Thumbs.db
 *.log

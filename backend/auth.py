@@ -11,7 +11,7 @@ from db import get_db
 auth = Blueprint("auth", __name__)
 JWT_SECRET = os.getenv("JWT_SECRET", "").strip()
 if not JWT_SECRET:
-    if os.getenv("APP_ENV") == "production":
+    if os.getenv("APP_ENV") == "production" or os.getenv("VERCEL_ENV") in {"production", "preview"}:
         raise RuntimeError("Set JWT_SECRET before starting the production server.")
     JWT_SECRET = "change-this-secret-in-development"
 JWT_ALGORITHM = "HS256"
