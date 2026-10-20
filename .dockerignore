@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+**/venv/
+**/.venv/
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/__pycache__/
+**/*.py[cod]
+**/*.log

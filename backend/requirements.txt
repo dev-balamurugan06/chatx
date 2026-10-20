@@ -1,0 +1,9 @@
+Flask>=3.0
+Flask-Cors>=4.0
+gunicorn>=23.0
+mysql-connector-python>=9.0
+openai>=1.50
+PyJWT>=2.8
+python-dotenv>=1.0
+pypdf>=5.0
+Werkzeug>=3.0

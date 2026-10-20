@@ -1,0 +1,22 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Node and build output
+node_modules/
+dist/
+dist-ssr/
+
+# Local tooling and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

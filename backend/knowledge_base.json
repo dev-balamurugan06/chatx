@@ -1,0 +1,4070 @@
+[
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hello! Nice to meet you."
+  },
+  {
+    "question": "capital of india",
+    "answer": "The capital of India is New Delhi."
+  },
+  {
+    "question": "largest planet",
+    "answer": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "question": "national animal of india",
+    "answer": "The tiger is the national animal of India."
+  },
+  {
+    "question": "python",
+    "answer": "Python is a high-level programming language used in AI, data science, and web development."
+  },
+  {
+    "question": "react",
+    "answer": "React is a JavaScript library used to build modern user interfaces."
+  },
+  {
+    "question": "flask",
+    "answer": "Flask is a lightweight Python web framework used for building APIs and web applications."
+  },
+  {
+    "question": "2+2",
+    "answer": "2 + 2 equals 4."
+  },
+  {
+    "question": "square root of 16",
+    "answer": "The square root of 16 is 4."
+  },
+  {
+    "question": "pi value",
+    "answer": "The value of pi is approximately 3.14159."
+  },
+  {
+    "question": "photosynthesis",
+    "answer": "Photosynthesis is the process by which plants make food using sunlight."
+  },
+  {
+    "question": "gravity",
+    "answer": "Gravity is the force that attracts objects toward the Earth."
+  },
+  {
+    "question": "speed of light",
+    "answer": "The speed of light is approximately 299,792 kilometers per second."
+  },
+  {
+    "question": "education",
+    "answer": "Education is the process of gaining knowledge, skills, values, and habits."
+  },
+  {
+    "question": "machine learning",
+    "answer": "Machine learning is a branch of AI that allows computers to learn from data."
+  },
+  {
+    "question": "data science",
+    "answer": "Data science is the field of extracting insights from data using statistics and programming."
+  },
+  {
+    "question": "what is the internet",
+    "answer": "The internet is a worldwide network of connected computer networks that exchange data using shared standards.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain the internet in simple terms",
+    "answer": "The internet is a worldwide network of connected computer networks that exchange data using shared standards.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does the internet work",
+    "answer": "The internet is a worldwide network of connected computer networks that exchange data using shared standards.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is the internet useful",
+    "answer": "The internet is a worldwide network of connected computer networks that exchange data using shared standards.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is a website",
+    "answer": "A website is a collection of related web pages and files available under a web address.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain a website in simple terms",
+    "answer": "A website is a collection of related web pages and files available under a web address.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does a website work",
+    "answer": "A website is a collection of related web pages and files available under a web address.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is a website useful",
+    "answer": "A website is a collection of related web pages and files available under a web address.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is a web browser",
+    "answer": "A web browser requests, displays, and lets people interact with web pages.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain a web browser in simple terms",
+    "answer": "A web browser requests, displays, and lets people interact with web pages.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does a web browser work",
+    "answer": "A web browser requests, displays, and lets people interact with web pages.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is a web browser useful",
+    "answer": "A web browser requests, displays, and lets people interact with web pages.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is http",
+    "answer": "HTTP is the protocol browsers and servers use to request and transfer web resources. HTTPS adds encrypted transport using TLS.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain http in simple terms",
+    "answer": "HTTP is the protocol browsers and servers use to request and transfer web resources. HTTPS adds encrypted transport using TLS.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does http work",
+    "answer": "HTTP is the protocol browsers and servers use to request and transfer web resources. HTTPS adds encrypted transport using TLS.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is http useful",
+    "answer": "HTTP is the protocol browsers and servers use to request and transfer web resources. HTTPS adds encrypted transport using TLS.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is an api",
+    "answer": "An API is a defined interface that lets one software system request data or actions from another.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain an api in simple terms",
+    "answer": "An API is a defined interface that lets one software system request data or actions from another.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does an api work",
+    "answer": "An API is a defined interface that lets one software system request data or actions from another.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is an api useful",
+    "answer": "An API is a defined interface that lets one software system request data or actions from another.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is an algorithm",
+    "answer": "An algorithm is a finite, ordered set of steps for solving a problem or completing a computation.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain an algorithm in simple terms",
+    "answer": "An algorithm is a finite, ordered set of steps for solving a problem or completing a computation.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does an algorithm work",
+    "answer": "An algorithm is a finite, ordered set of steps for solving a problem or completing a computation.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is an algorithm useful",
+    "answer": "An algorithm is a finite, ordered set of steps for solving a problem or completing a computation.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is a programming language",
+    "answer": "A programming language provides rules for writing instructions that computers can execute or translate.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain a programming language in simple terms",
+    "answer": "A programming language provides rules for writing instructions that computers can execute or translate.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does a programming language work",
+    "answer": "A programming language provides rules for writing instructions that computers can execute or translate.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is a programming language useful",
+    "answer": "A programming language provides rules for writing instructions that computers can execute or translate.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is a compiler",
+    "answer": "A compiler translates source code into another form, such as machine code, before the program runs.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain a compiler in simple terms",
+    "answer": "A compiler translates source code into another form, such as machine code, before the program runs.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does a compiler work",
+    "answer": "A compiler translates source code into another form, such as machine code, before the program runs.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is a compiler useful",
+    "answer": "A compiler translates source code into another form, such as machine code, before the program runs.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is an interpreter",
+    "answer": "An interpreter executes program instructions directly or through an intermediate form while the program runs.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain an interpreter in simple terms",
+    "answer": "An interpreter executes program instructions directly or through an intermediate form while the program runs.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does an interpreter work",
+    "answer": "An interpreter executes program instructions directly or through an intermediate form while the program runs.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is an interpreter useful",
+    "answer": "An interpreter executes program instructions directly or through an intermediate form while the program runs.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is an operating system",
+    "answer": "An operating system manages a device?s hardware and provides services for applications, files, memory, and users.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain an operating system in simple terms",
+    "answer": "An operating system manages a device?s hardware and provides services for applications, files, memory, and users.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does an operating system work",
+    "answer": "An operating system manages a device?s hardware and provides services for applications, files, memory, and users.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is an operating system useful",
+    "answer": "An operating system manages a device?s hardware and provides services for applications, files, memory, and users.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is a cpu",
+    "answer": "A CPU, or central processing unit, executes instructions and coordinates many computer calculations and operations.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain a cpu in simple terms",
+    "answer": "A CPU, or central processing unit, executes instructions and coordinates many computer calculations and operations.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does a cpu work",
+    "answer": "A CPU, or central processing unit, executes instructions and coordinates many computer calculations and operations.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is a cpu useful",
+    "answer": "A CPU, or central processing unit, executes instructions and coordinates many computer calculations and operations.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is ram",
+    "answer": "RAM is fast, temporary working memory for data currently in use; its contents are usually lost when power is removed.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain ram in simple terms",
+    "answer": "RAM is fast, temporary working memory for data currently in use; its contents are usually lost when power is removed.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does ram work",
+    "answer": "RAM is fast, temporary working memory for data currently in use; its contents are usually lost when power is removed.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is ram useful",
+    "answer": "RAM is fast, temporary working memory for data currently in use; its contents are usually lost when power is removed.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is an ssd",
+    "answer": "An SSD is a storage device that saves data in flash memory and has no spinning disks or moving read heads.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain an ssd in simple terms",
+    "answer": "An SSD is a storage device that saves data in flash memory and has no spinning disks or moving read heads.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does an ssd work",
+    "answer": "An SSD is a storage device that saves data in flash memory and has no spinning disks or moving read heads.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is an ssd useful",
+    "answer": "An SSD is a storage device that saves data in flash memory and has no spinning disks or moving read heads.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is a database",
+    "answer": "A database is an organized collection of data that can be stored, searched, updated, and managed.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain a database in simple terms",
+    "answer": "A database is an organized collection of data that can be stored, searched, updated, and managed.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does a database work",
+    "answer": "A database is an organized collection of data that can be stored, searched, updated, and managed.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is a database useful",
+    "answer": "A database is an organized collection of data that can be stored, searched, updated, and managed.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is sql",
+    "answer": "SQL is a language used to define, query, and change data in many relational database systems.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain sql in simple terms",
+    "answer": "SQL is a language used to define, query, and change data in many relational database systems.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does sql work",
+    "answer": "SQL is a language used to define, query, and change data in many relational database systems.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is sql useful",
+    "answer": "SQL is a language used to define, query, and change data in many relational database systems.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is cloud computing",
+    "answer": "Cloud computing provides computing resources, such as servers and storage, over a network on demand.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain cloud computing in simple terms",
+    "answer": "Cloud computing provides computing resources, such as servers and storage, over a network on demand.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does cloud computing work",
+    "answer": "Cloud computing provides computing resources, such as servers and storage, over a network on demand.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is cloud computing useful",
+    "answer": "Cloud computing provides computing resources, such as servers and storage, over a network on demand.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is cybersecurity",
+    "answer": "Cybersecurity is the practice of protecting devices, networks, software, and data from unauthorized access and attacks.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain cybersecurity in simple terms",
+    "answer": "Cybersecurity is the practice of protecting devices, networks, software, and data from unauthorized access and attacks.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does cybersecurity work",
+    "answer": "Cybersecurity is the practice of protecting devices, networks, software, and data from unauthorized access and attacks.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is cybersecurity useful",
+    "answer": "Cybersecurity is the practice of protecting devices, networks, software, and data from unauthorized access and attacks.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is encryption",
+    "answer": "Encryption transforms readable information into coded data that can be restored with the appropriate key.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain encryption in simple terms",
+    "answer": "Encryption transforms readable information into coded data that can be restored with the appropriate key.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does encryption work",
+    "answer": "Encryption transforms readable information into coded data that can be restored with the appropriate key.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is encryption useful",
+    "answer": "Encryption transforms readable information into coded data that can be restored with the appropriate key.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is artificial intelligence",
+    "answer": "Artificial intelligence builds computer systems that perform tasks associated with abilities such as perception, language, and decision-making.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain artificial intelligence in simple terms",
+    "answer": "Artificial intelligence builds computer systems that perform tasks associated with abilities such as perception, language, and decision-making.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does artificial intelligence work",
+    "answer": "Artificial intelligence builds computer systems that perform tasks associated with abilities such as perception, language, and decision-making.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is artificial intelligence useful",
+    "answer": "Artificial intelligence builds computer systems that perform tasks associated with abilities such as perception, language, and decision-making.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is machine learning",
+    "answer": "Machine learning is a branch of AI in which models learn patterns from data to make predictions or decisions.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain machine learning in simple terms",
+    "answer": "Machine learning is a branch of AI in which models learn patterns from data to make predictions or decisions.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does machine learning work",
+    "answer": "Machine learning is a branch of AI in which models learn patterns from data to make predictions or decisions.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is machine learning useful",
+    "answer": "Machine learning is a branch of AI in which models learn patterns from data to make predictions or decisions.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is a neural network",
+    "answer": "A neural network is a machine-learning model made of connected computational units that learn patterns by adjusting weights.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain a neural network in simple terms",
+    "answer": "A neural network is a machine-learning model made of connected computational units that learn patterns by adjusting weights.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does a neural network work",
+    "answer": "A neural network is a machine-learning model made of connected computational units that learn patterns by adjusting weights.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is a neural network useful",
+    "answer": "A neural network is a machine-learning model made of connected computational units that learn patterns by adjusting weights.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is open-source software",
+    "answer": "Open-source software makes its source code available under a license that permits specified forms of use, study, and modification.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain open-source software in simple terms",
+    "answer": "Open-source software makes its source code available under a license that permits specified forms of use, study, and modification.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does open-source software work",
+    "answer": "Open-source software makes its source code available under a license that permits specified forms of use, study, and modification.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is open-source software useful",
+    "answer": "Open-source software makes its source code available under a license that permits specified forms of use, study, and modification.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is version control",
+    "answer": "Version control records file changes over time so people can review, compare, and coordinate work.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain version control in simple terms",
+    "answer": "Version control records file changes over time so people can review, compare, and coordinate work.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does version control work",
+    "answer": "Version control records file changes over time so people can review, compare, and coordinate work.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is version control useful",
+    "answer": "Version control records file changes over time so people can review, compare, and coordinate work.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is git",
+    "answer": "Git is a distributed version-control system used to track changes and coordinate software development.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain git in simple terms",
+    "answer": "Git is a distributed version-control system used to track changes and coordinate software development.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does git work",
+    "answer": "Git is a distributed version-control system used to track changes and coordinate software development.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is git useful",
+    "answer": "Git is a distributed version-control system used to track changes and coordinate software development.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is blockchain",
+    "answer": "A blockchain is a shared digital ledger that links records in blocks and uses cryptographic methods to make changes detectable.",
+    "topic": "Technology"
+  },
+  {
+    "question": "explain blockchain in simple terms",
+    "answer": "A blockchain is a shared digital ledger that links records in blocks and uses cryptographic methods to make changes detectable.",
+    "topic": "Technology"
+  },
+  {
+    "question": "how does blockchain work",
+    "answer": "A blockchain is a shared digital ledger that links records in blocks and uses cryptographic methods to make changes detectable.",
+    "topic": "Technology"
+  },
+  {
+    "question": "why is blockchain useful",
+    "answer": "A blockchain is a shared digital ledger that links records in blocks and uses cryptographic methods to make changes detectable.",
+    "topic": "Technology"
+  },
+  {
+    "question": "what is a fraction",
+    "answer": "A fraction represents part of a whole as a numerator divided by a nonzero denominator. For example, 3/4 means three of four equal parts.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain a fraction with an example",
+    "answer": "A fraction represents part of a whole as a numerator divided by a nonzero denominator. For example, 3/4 means three of four equal parts.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate a fraction",
+    "answer": "A fraction represents part of a whole as a numerator divided by a nonzero denominator. For example, 3/4 means three of four equal parts.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is a fraction used",
+    "answer": "A fraction represents part of a whole as a numerator divided by a nonzero denominator. For example, 3/4 means three of four equal parts.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is a prime number",
+    "answer": "A prime number is a whole number greater than 1 with exactly two positive divisors: 1 and itself.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain a prime number with an example",
+    "answer": "A prime number is a whole number greater than 1 with exactly two positive divisors: 1 and itself.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate a prime number",
+    "answer": "A prime number is a whole number greater than 1 with exactly two positive divisors: 1 and itself.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is a prime number used",
+    "answer": "A prime number is a whole number greater than 1 with exactly two positive divisors: 1 and itself.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is an even number",
+    "answer": "An even integer is divisible by 2 with no remainder; examples include ?4, 0, 12, and 28.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain an even number with an example",
+    "answer": "An even integer is divisible by 2 with no remainder; examples include ?4, 0, 12, and 28.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate an even number",
+    "answer": "An even integer is divisible by 2 with no remainder; examples include ?4, 0, 12, and 28.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is an even number used",
+    "answer": "An even integer is divisible by 2 with no remainder; examples include ?4, 0, 12, and 28.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is a ratio",
+    "answer": "A ratio compares quantities by division. The ratio 2:3 means two parts of one quantity for every three parts of another.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain a ratio with an example",
+    "answer": "A ratio compares quantities by division. The ratio 2:3 means two parts of one quantity for every three parts of another.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate a ratio",
+    "answer": "A ratio compares quantities by division. The ratio 2:3 means two parts of one quantity for every three parts of another.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is a ratio used",
+    "answer": "A ratio compares quantities by division. The ratio 2:3 means two parts of one quantity for every three parts of another.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is a percentage",
+    "answer": "A percentage is a ratio out of 100. For example, 25% equals 25/100 or 1/4.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain a percentage with an example",
+    "answer": "A percentage is a ratio out of 100. For example, 25% equals 25/100 or 1/4.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate a percentage",
+    "answer": "A percentage is a ratio out of 100. For example, 25% equals 25/100 or 1/4.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is a percentage used",
+    "answer": "A percentage is a ratio out of 100. For example, 25% equals 25/100 or 1/4.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the arithmetic mean",
+    "answer": "The arithmetic mean is found by adding all values and dividing by the number of values.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the arithmetic mean with an example",
+    "answer": "The arithmetic mean is found by adding all values and dividing by the number of values.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the arithmetic mean",
+    "answer": "The arithmetic mean is found by adding all values and dividing by the number of values.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the arithmetic mean used",
+    "answer": "The arithmetic mean is found by adding all values and dividing by the number of values.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the median",
+    "answer": "The median is the middle value after data are sorted; for an even number of values, it is the mean of the two middle values.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the median with an example",
+    "answer": "The median is the middle value after data are sorted; for an even number of values, it is the mean of the two middle values.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the median",
+    "answer": "The median is the middle value after data are sorted; for an even number of values, it is the mean of the two middle values.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the median used",
+    "answer": "The median is the middle value after data are sorted; for an even number of values, it is the mean of the two middle values.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the mode",
+    "answer": "The mode is the value or values that occur most often in a data set; a set can have no mode or several modes.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the mode with an example",
+    "answer": "The mode is the value or values that occur most often in a data set; a set can have no mode or several modes.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the mode",
+    "answer": "The mode is the value or values that occur most often in a data set; a set can have no mode or several modes.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the mode used",
+    "answer": "The mode is the value or values that occur most often in a data set; a set can have no mode or several modes.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is an algebraic variable",
+    "answer": "A variable is a symbol, often a letter, that stands for a number or a quantity that can change.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain an algebraic variable with an example",
+    "answer": "A variable is a symbol, often a letter, that stands for a number or a quantity that can change.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate an algebraic variable",
+    "answer": "A variable is a symbol, often a letter, that stands for a number or a quantity that can change.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is an algebraic variable used",
+    "answer": "A variable is a symbol, often a letter, that stands for a number or a quantity that can change.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is a linear equation",
+    "answer": "A linear equation has variables only to the first power and graphs as a straight line, such as y = 2x + 3.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain a linear equation with an example",
+    "answer": "A linear equation has variables only to the first power and graphs as a straight line, such as y = 2x + 3.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate a linear equation",
+    "answer": "A linear equation has variables only to the first power and graphs as a straight line, such as y = 2x + 3.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is a linear equation used",
+    "answer": "A linear equation has variables only to the first power and graphs as a straight line, such as y = 2x + 3.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is an exponent",
+    "answer": "An exponent tells how many times a base is used as a factor. For example, 2? = 2 ? 2 ? 2 = 8.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain an exponent with an example",
+    "answer": "An exponent tells how many times a base is used as a factor. For example, 2? = 2 ? 2 ? 2 = 8.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate an exponent",
+    "answer": "An exponent tells how many times a base is used as a factor. For example, 2? = 2 ? 2 ? 2 = 8.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is an exponent used",
+    "answer": "An exponent tells how many times a base is used as a factor. For example, 2? = 2 ? 2 ? 2 = 8.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is a square root",
+    "answer": "A square root of a number is a value that, when multiplied by itself, gives that number; the principal square root of 49 is 7.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain a square root with an example",
+    "answer": "A square root of a number is a value that, when multiplied by itself, gives that number; the principal square root of 49 is 7.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate a square root",
+    "answer": "A square root of a number is a value that, when multiplied by itself, gives that number; the principal square root of 49 is 7.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is a square root used",
+    "answer": "A square root of a number is a value that, when multiplied by itself, gives that number; the principal square root of 49 is 7.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the area of a rectangle",
+    "answer": "The area of a rectangle is its length multiplied by its width, expressed in square units.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the area of a rectangle with an example",
+    "answer": "The area of a rectangle is its length multiplied by its width, expressed in square units.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the area of a rectangle",
+    "answer": "The area of a rectangle is its length multiplied by its width, expressed in square units.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the area of a rectangle used",
+    "answer": "The area of a rectangle is its length multiplied by its width, expressed in square units.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the perimeter of a rectangle",
+    "answer": "The perimeter of a rectangle is the total distance around it: 2 ? (length + width).",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the perimeter of a rectangle with an example",
+    "answer": "The perimeter of a rectangle is the total distance around it: 2 ? (length + width).",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the perimeter of a rectangle",
+    "answer": "The perimeter of a rectangle is the total distance around it: 2 ? (length + width).",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the perimeter of a rectangle used",
+    "answer": "The perimeter of a rectangle is the total distance around it: 2 ? (length + width).",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the circumference of a circle",
+    "answer": "A circle?s circumference is its distance around the edge, calculated as 2?r or ?d.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the circumference of a circle with an example",
+    "answer": "A circle?s circumference is its distance around the edge, calculated as 2?r or ?d.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the circumference of a circle",
+    "answer": "A circle?s circumference is its distance around the edge, calculated as 2?r or ?d.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the circumference of a circle used",
+    "answer": "A circle?s circumference is its distance around the edge, calculated as 2?r or ?d.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the area of a circle",
+    "answer": "A circle?s area is pi multiplied by the square of its radius: A = ?r?.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the area of a circle with an example",
+    "answer": "A circle?s area is pi multiplied by the square of its radius: A = ?r?.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the area of a circle",
+    "answer": "A circle?s area is pi multiplied by the square of its radius: A = ?r?.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the area of a circle used",
+    "answer": "A circle?s area is pi multiplied by the square of its radius: A = ?r?.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the pythagorean theorem",
+    "answer": "For a right triangle with legs a and b and hypotenuse c, the Pythagorean theorem states a? + b? = c?.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the pythagorean theorem with an example",
+    "answer": "For a right triangle with legs a and b and hypotenuse c, the Pythagorean theorem states a? + b? = c?.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the pythagorean theorem",
+    "answer": "For a right triangle with legs a and b and hypotenuse c, the Pythagorean theorem states a? + b? = c?.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the pythagorean theorem used",
+    "answer": "For a right triangle with legs a and b and hypotenuse c, the Pythagorean theorem states a? + b? = c?.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is probability",
+    "answer": "Probability measures how likely an event is, from 0 for impossible to 1 for certain. With equally likely outcomes, it is favorable outcomes divided by total outcomes.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain probability with an example",
+    "answer": "Probability measures how likely an event is, from 0 for impossible to 1 for certain. With equally likely outcomes, it is favorable outcomes divided by total outcomes.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate probability",
+    "answer": "Probability measures how likely an event is, from 0 for impossible to 1 for certain. With equally likely outcomes, it is favorable outcomes divided by total outcomes.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is probability used",
+    "answer": "Probability measures how likely an event is, from 0 for impossible to 1 for certain. With equally likely outcomes, it is favorable outcomes divided by total outcomes.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the slope of a line",
+    "answer": "Slope measures a line?s steepness and direction; it is the change in y divided by the corresponding change in x.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the slope of a line with an example",
+    "answer": "Slope measures a line?s steepness and direction; it is the change in y divided by the corresponding change in x.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the slope of a line",
+    "answer": "Slope measures a line?s steepness and direction; it is the change in y divided by the corresponding change in x.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the slope of a line used",
+    "answer": "Slope measures a line?s steepness and direction; it is the change in y divided by the corresponding change in x.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is an integer",
+    "answer": "An integer is a whole number, its negative, or zero; fractions and non-whole decimals are not integers.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain an integer with an example",
+    "answer": "An integer is a whole number, its negative, or zero; fractions and non-whole decimals are not integers.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate an integer",
+    "answer": "An integer is a whole number, its negative, or zero; fractions and non-whole decimals are not integers.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is an integer used",
+    "answer": "An integer is a whole number, its negative, or zero; fractions and non-whole decimals are not integers.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is a decimal",
+    "answer": "A decimal writes a number using place values based on powers of ten, with a decimal point separating whole and fractional parts.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain a decimal with an example",
+    "answer": "A decimal writes a number using place values based on powers of ten, with a decimal point separating whole and fractional parts.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate a decimal",
+    "answer": "A decimal writes a number using place values based on powers of ten, with a decimal point separating whole and fractional parts.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is a decimal used",
+    "answer": "A decimal writes a number using place values based on powers of ten, with a decimal point separating whole and fractional parts.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the least common multiple",
+    "answer": "The least common multiple, or LCM, is the smallest positive whole number that is a multiple of each given integer.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the least common multiple with an example",
+    "answer": "The least common multiple, or LCM, is the smallest positive whole number that is a multiple of each given integer.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the least common multiple",
+    "answer": "The least common multiple, or LCM, is the smallest positive whole number that is a multiple of each given integer.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the least common multiple used",
+    "answer": "The least common multiple, or LCM, is the smallest positive whole number that is a multiple of each given integer.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is the greatest common divisor",
+    "answer": "The greatest common divisor, or GCD, is the largest positive integer that divides each given integer without a remainder.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain the greatest common divisor with an example",
+    "answer": "The greatest common divisor, or GCD, is the largest positive integer that divides each given integer without a remainder.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate the greatest common divisor",
+    "answer": "The greatest common divisor, or GCD, is the largest positive integer that divides each given integer without a remainder.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is the greatest common divisor used",
+    "answer": "The greatest common divisor, or GCD, is the largest positive integer that divides each given integer without a remainder.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is scientific notation",
+    "answer": "Scientific notation writes a number as a value from 1 up to but not including 10 multiplied by a power of 10.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain scientific notation with an example",
+    "answer": "Scientific notation writes a number as a value from 1 up to but not including 10 multiplied by a power of 10.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate scientific notation",
+    "answer": "Scientific notation writes a number as a value from 1 up to but not including 10 multiplied by a power of 10.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is scientific notation used",
+    "answer": "Scientific notation writes a number as a value from 1 up to but not including 10 multiplied by a power of 10.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what is a proportion",
+    "answer": "A proportion states that two ratios are equal. For example, 2/3 = 4/6 is a proportion.",
+    "topic": "Maths"
+  },
+  {
+    "question": "explain a proportion with an example",
+    "answer": "A proportion states that two ratios are equal. For example, 2/3 = 4/6 is a proportion.",
+    "topic": "Maths"
+  },
+  {
+    "question": "how do you calculate a proportion",
+    "answer": "A proportion states that two ratios are equal. For example, 2/3 = 4/6 is a proportion.",
+    "topic": "Maths"
+  },
+  {
+    "question": "where is a proportion used",
+    "answer": "A proportion states that two ratios are equal. For example, 2/3 = 4/6 is a proportion.",
+    "topic": "Maths"
+  },
+  {
+    "question": "what was ancient egyptian civilization",
+    "answer": "Ancient Egyptian civilization developed along the Nile. The unification of Upper and Lower Egypt is traditionally dated to around 3100 BCE.",
+    "topic": "History"
+  },
+  {
+    "question": "when did ancient egyptian civilization take place",
+    "answer": "Ancient Egyptian civilization developed along the Nile. The unification of Upper and Lower Egypt is traditionally dated to around 3100 BCE.",
+    "topic": "History"
+  },
+  {
+    "question": "why was ancient egyptian civilization important",
+    "answer": "Ancient Egyptian civilization developed along the Nile. The unification of Upper and Lower Egypt is traditionally dated to around 3100 BCE.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize ancient egyptian civilization",
+    "answer": "Ancient Egyptian civilization developed along the Nile. The unification of Upper and Lower Egypt is traditionally dated to around 3100 BCE.",
+    "topic": "History"
+  },
+  {
+    "question": "what was athenian democracy",
+    "answer": "Athenian democracy developed in the 5th century BCE. Eligible male citizens could participate directly, while women, enslaved people, and resident foreigners were excluded.",
+    "topic": "History"
+  },
+  {
+    "question": "when did athenian democracy take place",
+    "answer": "Athenian democracy developed in the 5th century BCE. Eligible male citizens could participate directly, while women, enslaved people, and resident foreigners were excluded.",
+    "topic": "History"
+  },
+  {
+    "question": "why was athenian democracy important",
+    "answer": "Athenian democracy developed in the 5th century BCE. Eligible male citizens could participate directly, while women, enslaved people, and resident foreigners were excluded.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize athenian democracy",
+    "answer": "Athenian democracy developed in the 5th century BCE. Eligible male citizens could participate directly, while women, enslaved people, and resident foreigners were excluded.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the roman republic",
+    "answer": "The Roman Republic is traditionally dated from 509 BCE until Augustus established imperial rule in 27 BCE.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the roman republic take place",
+    "answer": "The Roman Republic is traditionally dated from 509 BCE until Augustus established imperial rule in 27 BCE.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the roman republic important",
+    "answer": "The Roman Republic is traditionally dated from 509 BCE until Augustus established imperial rule in 27 BCE.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the roman republic",
+    "answer": "The Roman Republic is traditionally dated from 509 BCE until Augustus established imperial rule in 27 BCE.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the roman empire",
+    "answer": "The Roman Empire began under Augustus in 27 BCE. The western empire?s last emperor was deposed in 476 CE; the eastern empire continued until 1453.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the roman empire take place",
+    "answer": "The Roman Empire began under Augustus in 27 BCE. The western empire?s last emperor was deposed in 476 CE; the eastern empire continued until 1453.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the roman empire important",
+    "answer": "The Roman Empire began under Augustus in 27 BCE. The western empire?s last emperor was deposed in 476 CE; the eastern empire continued until 1453.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the roman empire",
+    "answer": "The Roman Empire began under Augustus in 27 BCE. The western empire?s last emperor was deposed in 476 CE; the eastern empire continued until 1453.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the silk road",
+    "answer": "The Silk Road was a network of land and sea trade routes linking East Asia, Central Asia, the Middle East, and Europe, especially from the 2nd century BCE onward.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the silk road take place",
+    "answer": "The Silk Road was a network of land and sea trade routes linking East Asia, Central Asia, the Middle East, and Europe, especially from the 2nd century BCE onward.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the silk road important",
+    "answer": "The Silk Road was a network of land and sea trade routes linking East Asia, Central Asia, the Middle East, and Europe, especially from the 2nd century BCE onward.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the silk road",
+    "answer": "The Silk Road was a network of land and sea trade routes linking East Asia, Central Asia, the Middle East, and Europe, especially from the 2nd century BCE onward.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the magna carta",
+    "answer": "The Magna Carta was agreed by King John of England and rebel barons in 1215. It became an influential symbol of limits on royal power and due process.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the magna carta take place",
+    "answer": "The Magna Carta was agreed by King John of England and rebel barons in 1215. It became an influential symbol of limits on royal power and due process.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the magna carta important",
+    "answer": "The Magna Carta was agreed by King John of England and rebel barons in 1215. It became an influential symbol of limits on royal power and due process.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the magna carta",
+    "answer": "The Magna Carta was agreed by King John of England and rebel barons in 1215. It became an influential symbol of limits on royal power and due process.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the renaissance",
+    "answer": "The Renaissance was a period of renewed interest in classical learning, arts, and science that began in Italy and spread through Europe from roughly the 14th to 17th centuries.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the renaissance take place",
+    "answer": "The Renaissance was a period of renewed interest in classical learning, arts, and science that began in Italy and spread through Europe from roughly the 14th to 17th centuries.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the renaissance important",
+    "answer": "The Renaissance was a period of renewed interest in classical learning, arts, and science that began in Italy and spread through Europe from roughly the 14th to 17th centuries.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the renaissance",
+    "answer": "The Renaissance was a period of renewed interest in classical learning, arts, and science that began in Italy and spread through Europe from roughly the 14th to 17th centuries.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the european printing press",
+    "answer": "Johannes Gutenberg developed a movable-type printing system in Europe around the mid-15th century, helping books and ideas circulate more widely.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the european printing press take place",
+    "answer": "Johannes Gutenberg developed a movable-type printing system in Europe around the mid-15th century, helping books and ideas circulate more widely.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the european printing press important",
+    "answer": "Johannes Gutenberg developed a movable-type printing system in Europe around the mid-15th century, helping books and ideas circulate more widely.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the european printing press",
+    "answer": "Johannes Gutenberg developed a movable-type printing system in Europe around the mid-15th century, helping books and ideas circulate more widely.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the age of exploration",
+    "answer": "The Age of Exploration refers mainly to European ocean voyages from the 15th through 17th centuries, which expanded trade and contact while also driving conquest and colonization.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the age of exploration take place",
+    "answer": "The Age of Exploration refers mainly to European ocean voyages from the 15th through 17th centuries, which expanded trade and contact while also driving conquest and colonization.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the age of exploration important",
+    "answer": "The Age of Exploration refers mainly to European ocean voyages from the 15th through 17th centuries, which expanded trade and contact while also driving conquest and colonization.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the age of exploration",
+    "answer": "The Age of Exploration refers mainly to European ocean voyages from the 15th through 17th centuries, which expanded trade and contact while also driving conquest and colonization.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the american revolution",
+    "answer": "The American Revolution was the conflict in which thirteen British colonies won independence. The war lasted from 1775 to 1783; the Declaration of Independence was issued in 1776.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the american revolution take place",
+    "answer": "The American Revolution was the conflict in which thirteen British colonies won independence. The war lasted from 1775 to 1783; the Declaration of Independence was issued in 1776.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the american revolution important",
+    "answer": "The American Revolution was the conflict in which thirteen British colonies won independence. The war lasted from 1775 to 1783; the Declaration of Independence was issued in 1776.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the american revolution",
+    "answer": "The American Revolution was the conflict in which thirteen British colonies won independence. The war lasted from 1775 to 1783; the Declaration of Independence was issued in 1776.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the french revolution",
+    "answer": "The French Revolution began in 1789 and transformed France?s political order. It ended with Napoleon?s coup in 1799.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the french revolution take place",
+    "answer": "The French Revolution began in 1789 and transformed France?s political order. It ended with Napoleon?s coup in 1799.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the french revolution important",
+    "answer": "The French Revolution began in 1789 and transformed France?s political order. It ended with Napoleon?s coup in 1799.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the french revolution",
+    "answer": "The French Revolution began in 1789 and transformed France?s political order. It ended with Napoleon?s coup in 1799.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the haitian revolution",
+    "answer": "The Haitian Revolution was a successful uprising against French colonial rule and slavery from 1791 to 1804; Haiti declared independence in 1804.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the haitian revolution take place",
+    "answer": "The Haitian Revolution was a successful uprising against French colonial rule and slavery from 1791 to 1804; Haiti declared independence in 1804.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the haitian revolution important",
+    "answer": "The Haitian Revolution was a successful uprising against French colonial rule and slavery from 1791 to 1804; Haiti declared independence in 1804.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the haitian revolution",
+    "answer": "The Haitian Revolution was a successful uprising against French colonial rule and slavery from 1791 to 1804; Haiti declared independence in 1804.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the industrial revolution",
+    "answer": "The Industrial Revolution began in Britain in the 18th century and brought major changes through mechanized production, factories, and new energy sources.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the industrial revolution take place",
+    "answer": "The Industrial Revolution began in Britain in the 18th century and brought major changes through mechanized production, factories, and new energy sources.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the industrial revolution important",
+    "answer": "The Industrial Revolution began in Britain in the 18th century and brought major changes through mechanized production, factories, and new energy sources.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the industrial revolution",
+    "answer": "The Industrial Revolution began in Britain in the 18th century and brought major changes through mechanized production, factories, and new energy sources.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the indian rebellion of 1857",
+    "answer": "The Indian Rebellion of 1857 was a widespread uprising against East India Company rule. After it was suppressed, the British Crown took direct control of India.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the indian rebellion of 1857 take place",
+    "answer": "The Indian Rebellion of 1857 was a widespread uprising against East India Company rule. After it was suppressed, the British Crown took direct control of India.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the indian rebellion of 1857 important",
+    "answer": "The Indian Rebellion of 1857 was a widespread uprising against East India Company rule. After it was suppressed, the British Crown took direct control of India.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the indian rebellion of 1857",
+    "answer": "The Indian Rebellion of 1857 was a widespread uprising against East India Company rule. After it was suppressed, the British Crown took direct control of India.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the meiji restoration",
+    "answer": "The Meiji Restoration began in 1868, restoring imperial rule in Japan and accelerating political, industrial, and military modernization.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the meiji restoration take place",
+    "answer": "The Meiji Restoration began in 1868, restoring imperial rule in Japan and accelerating political, industrial, and military modernization.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the meiji restoration important",
+    "answer": "The Meiji Restoration began in 1868, restoring imperial rule in Japan and accelerating political, industrial, and military modernization.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the meiji restoration",
+    "answer": "The Meiji Restoration began in 1868, restoring imperial rule in Japan and accelerating political, industrial, and military modernization.",
+    "topic": "History"
+  },
+  {
+    "question": "what was world war i",
+    "answer": "World War I lasted from 1914 to 1918 and involved many world powers. The armistice took effect on 11 November 1918.",
+    "topic": "History"
+  },
+  {
+    "question": "when did world war i take place",
+    "answer": "World War I lasted from 1914 to 1918 and involved many world powers. The armistice took effect on 11 November 1918.",
+    "topic": "History"
+  },
+  {
+    "question": "why was world war i important",
+    "answer": "World War I lasted from 1914 to 1918 and involved many world powers. The armistice took effect on 11 November 1918.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize world war i",
+    "answer": "World War I lasted from 1914 to 1918 and involved many world powers. The armistice took effect on 11 November 1918.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the russian revolution",
+    "answer": "The Russian Revolution of 1917 ended the Romanov monarchy and led to Bolshevik rule; the upheavals eventually contributed to the creation of the Soviet Union in 1922.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the russian revolution take place",
+    "answer": "The Russian Revolution of 1917 ended the Romanov monarchy and led to Bolshevik rule; the upheavals eventually contributed to the creation of the Soviet Union in 1922.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the russian revolution important",
+    "answer": "The Russian Revolution of 1917 ended the Romanov monarchy and led to Bolshevik rule; the upheavals eventually contributed to the creation of the Soviet Union in 1922.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the russian revolution",
+    "answer": "The Russian Revolution of 1917 ended the Romanov monarchy and led to Bolshevik rule; the upheavals eventually contributed to the creation of the Soviet Union in 1922.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the chinese revolution of 1911",
+    "answer": "The 1911 Revolution overthrew the Qing dynasty. The Republic of China was established in 1912.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the chinese revolution of 1911 take place",
+    "answer": "The 1911 Revolution overthrew the Qing dynasty. The Republic of China was established in 1912.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the chinese revolution of 1911 important",
+    "answer": "The 1911 Revolution overthrew the Qing dynasty. The Republic of China was established in 1912.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the chinese revolution of 1911",
+    "answer": "The 1911 Revolution overthrew the Qing dynasty. The Republic of China was established in 1912.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the women?s suffrage movement",
+    "answer": "The women?s suffrage movement campaigned for women?s voting rights. New Zealand became the first self-governing country to grant women the right to vote nationally in 1893.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the women?s suffrage movement take place",
+    "answer": "The women?s suffrage movement campaigned for women?s voting rights. New Zealand became the first self-governing country to grant women the right to vote nationally in 1893.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the women?s suffrage movement important",
+    "answer": "The women?s suffrage movement campaigned for women?s voting rights. New Zealand became the first self-governing country to grant women the right to vote nationally in 1893.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the women?s suffrage movement",
+    "answer": "The women?s suffrage movement campaigned for women?s voting rights. New Zealand became the first self-governing country to grant women the right to vote nationally in 1893.",
+    "topic": "History"
+  },
+  {
+    "question": "what was world war ii",
+    "answer": "World War II lasted from 1939 to 1945 and involved countries across the world. It ended after Germany?s surrender in May and Japan?s surrender in September 1945.",
+    "topic": "History"
+  },
+  {
+    "question": "when did world war ii take place",
+    "answer": "World War II lasted from 1939 to 1945 and involved countries across the world. It ended after Germany?s surrender in May and Japan?s surrender in September 1945.",
+    "topic": "History"
+  },
+  {
+    "question": "why was world war ii important",
+    "answer": "World War II lasted from 1939 to 1945 and involved countries across the world. It ended after Germany?s surrender in May and Japan?s surrender in September 1945.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize world war ii",
+    "answer": "World War II lasted from 1939 to 1945 and involved countries across the world. It ended after Germany?s surrender in May and Japan?s surrender in September 1945.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the founding of the united nations",
+    "answer": "The United Nations was established in 1945 after World War II, with aims of supporting international cooperation, peace, and security.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the founding of the united nations take place",
+    "answer": "The United Nations was established in 1945 after World War II, with aims of supporting international cooperation, peace, and security.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the founding of the united nations important",
+    "answer": "The United Nations was established in 1945 after World War II, with aims of supporting international cooperation, peace, and security.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the founding of the united nations",
+    "answer": "The United Nations was established in 1945 after World War II, with aims of supporting international cooperation, peace, and security.",
+    "topic": "History"
+  },
+  {
+    "question": "what was indian independence",
+    "answer": "India became independent from British rule on 15 August 1947. Partition at the same time created the separate state of Pakistan.",
+    "topic": "History"
+  },
+  {
+    "question": "when did indian independence take place",
+    "answer": "India became independent from British rule on 15 August 1947. Partition at the same time created the separate state of Pakistan.",
+    "topic": "History"
+  },
+  {
+    "question": "why was indian independence important",
+    "answer": "India became independent from British rule on 15 August 1947. Partition at the same time created the separate state of Pakistan.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize indian independence",
+    "answer": "India became independent from British rule on 15 August 1947. Partition at the same time created the separate state of Pakistan.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the united states civil rights movement",
+    "answer": "The US civil rights movement of the 1950s and 1960s challenged racial segregation and discrimination; it helped secure landmark laws including the Civil Rights Act of 1964.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the united states civil rights movement take place",
+    "answer": "The US civil rights movement of the 1950s and 1960s challenged racial segregation and discrimination; it helped secure landmark laws including the Civil Rights Act of 1964.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the united states civil rights movement important",
+    "answer": "The US civil rights movement of the 1950s and 1960s challenged racial segregation and discrimination; it helped secure landmark laws including the Civil Rights Act of 1964.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the united states civil rights movement",
+    "answer": "The US civil rights movement of the 1950s and 1960s challenged racial segregation and discrimination; it helped secure landmark laws including the Civil Rights Act of 1964.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the first crewed moon landing",
+    "answer": "Apollo 11 landed astronauts Neil Armstrong and Buzz Aldrin on the Moon on 20 July 1969; Michael Collins remained in lunar orbit.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the first crewed moon landing take place",
+    "answer": "Apollo 11 landed astronauts Neil Armstrong and Buzz Aldrin on the Moon on 20 July 1969; Michael Collins remained in lunar orbit.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the first crewed moon landing important",
+    "answer": "Apollo 11 landed astronauts Neil Armstrong and Buzz Aldrin on the Moon on 20 July 1969; Michael Collins remained in lunar orbit.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the first crewed moon landing",
+    "answer": "Apollo 11 landed astronauts Neil Armstrong and Buzz Aldrin on the Moon on 20 July 1969; Michael Collins remained in lunar orbit.",
+    "topic": "History"
+  },
+  {
+    "question": "what was the fall of the berlin wall",
+    "answer": "The Berlin Wall opened on 9 November 1989 amid political change in East Germany. Its fall became a defining event in the end of the Cold War era.",
+    "topic": "History"
+  },
+  {
+    "question": "when did the fall of the berlin wall take place",
+    "answer": "The Berlin Wall opened on 9 November 1989 amid political change in East Germany. Its fall became a defining event in the end of the Cold War era.",
+    "topic": "History"
+  },
+  {
+    "question": "why was the fall of the berlin wall important",
+    "answer": "The Berlin Wall opened on 9 November 1989 amid political change in East Germany. Its fall became a defining event in the end of the Cold War era.",
+    "topic": "History"
+  },
+  {
+    "question": "summarize the fall of the berlin wall",
+    "answer": "The Berlin Wall opened on 9 November 1989 amid political change in East Germany. Its fall became a defining event in the end of the Cold War era.",
+    "topic": "History"
+  },
+  {
+    "question": "what is photosynthesis",
+    "answer": "Photosynthesis is the process by which plants, algae, and some bacteria use light energy to turn carbon dioxide and water into energy-rich sugars, releasing oxygen in many cases.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does photosynthesis work",
+    "answer": "Photosynthesis is the process by which plants, algae, and some bacteria use light energy to turn carbon dioxide and water into energy-rich sugars, releasing oxygen in many cases.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does photosynthesis play",
+    "answer": "Photosynthesis is the process by which plants, algae, and some bacteria use light energy to turn carbon dioxide and water into energy-rich sugars, releasing oxygen in many cases.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is photosynthesis important",
+    "answer": "Photosynthesis is the process by which plants, algae, and some bacteria use light energy to turn carbon dioxide and water into energy-rich sugars, releasing oxygen in many cases.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is a cell",
+    "answer": "A cell is the basic structural and functional unit of living organisms. Some organisms consist of one cell, while others contain many specialized cells.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does a cell work",
+    "answer": "A cell is the basic structural and functional unit of living organisms. Some organisms consist of one cell, while others contain many specialized cells.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does a cell play",
+    "answer": "A cell is the basic structural and functional unit of living organisms. Some organisms consist of one cell, while others contain many specialized cells.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is a cell important",
+    "answer": "A cell is the basic structural and functional unit of living organisms. Some organisms consist of one cell, while others contain many specialized cells.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is an atom",
+    "answer": "An atom is a basic unit of an element, consisting of a nucleus of protons and usually neutrons surrounded by electrons.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does an atom work",
+    "answer": "An atom is a basic unit of an element, consisting of a nucleus of protons and usually neutrons surrounded by electrons.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does an atom play",
+    "answer": "An atom is a basic unit of an element, consisting of a nucleus of protons and usually neutrons surrounded by electrons.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is an atom important",
+    "answer": "An atom is a basic unit of an element, consisting of a nucleus of protons and usually neutrons surrounded by electrons.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is a molecule",
+    "answer": "A molecule is a group of two or more atoms held together by chemical bonds.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does a molecule work",
+    "answer": "A molecule is a group of two or more atoms held together by chemical bonds.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does a molecule play",
+    "answer": "A molecule is a group of two or more atoms held together by chemical bonds.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is a molecule important",
+    "answer": "A molecule is a group of two or more atoms held together by chemical bonds.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is a chemical element",
+    "answer": "A chemical element is a pure substance whose atoms all have the same number of protons; that number is its atomic number.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does a chemical element work",
+    "answer": "A chemical element is a pure substance whose atoms all have the same number of protons; that number is its atomic number.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does a chemical element play",
+    "answer": "A chemical element is a pure substance whose atoms all have the same number of protons; that number is its atomic number.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is a chemical element important",
+    "answer": "A chemical element is a pure substance whose atoms all have the same number of protons; that number is its atomic number.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is a chemical reaction",
+    "answer": "A chemical reaction rearranges atoms and their bonds to form new substances. Atoms are conserved even though their arrangement changes.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does a chemical reaction work",
+    "answer": "A chemical reaction rearranges atoms and their bonds to form new substances. Atoms are conserved even though their arrangement changes.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does a chemical reaction play",
+    "answer": "A chemical reaction rearranges atoms and their bonds to form new substances. Atoms are conserved even though their arrangement changes.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is a chemical reaction important",
+    "answer": "A chemical reaction rearranges atoms and their bonds to form new substances. Atoms are conserved even though their arrangement changes.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is kinetic energy",
+    "answer": "Kinetic energy is the energy an object has because it is moving. For mass m and speed v, it is ?mv? in classical mechanics.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does kinetic energy work",
+    "answer": "Kinetic energy is the energy an object has because it is moving. For mass m and speed v, it is ?mv? in classical mechanics.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does kinetic energy play",
+    "answer": "Kinetic energy is the energy an object has because it is moving. For mass m and speed v, it is ?mv? in classical mechanics.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is kinetic energy important",
+    "answer": "Kinetic energy is the energy an object has because it is moving. For mass m and speed v, it is ?mv? in classical mechanics.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is newton?s first law of motion",
+    "answer": "Newton?s first law says an object remains at rest or moves at constant velocity unless a net external force acts on it.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does newton?s first law of motion work",
+    "answer": "Newton?s first law says an object remains at rest or moves at constant velocity unless a net external force acts on it.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does newton?s first law of motion play",
+    "answer": "Newton?s first law says an object remains at rest or moves at constant velocity unless a net external force acts on it.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is newton?s first law of motion important",
+    "answer": "Newton?s first law says an object remains at rest or moves at constant velocity unless a net external force acts on it.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is force",
+    "answer": "A force is an interaction that can change an object?s motion. In classical mechanics, net force equals mass times acceleration.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does force work",
+    "answer": "A force is an interaction that can change an object?s motion. In classical mechanics, net force equals mass times acceleration.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does force play",
+    "answer": "A force is an interaction that can change an object?s motion. In classical mechanics, net force equals mass times acceleration.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is force important",
+    "answer": "A force is an interaction that can change an object?s motion. In classical mechanics, net force equals mass times acceleration.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is electric current",
+    "answer": "Electric current is the rate at which electric charge flows through a point in a circuit, measured in amperes.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does electric current work",
+    "answer": "Electric current is the rate at which electric charge flows through a point in a circuit, measured in amperes.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does electric current play",
+    "answer": "Electric current is the rate at which electric charge flows through a point in a circuit, measured in amperes.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is electric current important",
+    "answer": "Electric current is the rate at which electric charge flows through a point in a circuit, measured in amperes.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is magnetism",
+    "answer": "Magnetism is a physical interaction associated with moving electric charges and magnetic fields; it can attract or repel magnetic materials and magnets.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does magnetism work",
+    "answer": "Magnetism is a physical interaction associated with moving electric charges and magnetic fields; it can attract or repel magnetic materials and magnets.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does magnetism play",
+    "answer": "Magnetism is a physical interaction associated with moving electric charges and magnetic fields; it can attract or repel magnetic materials and magnets.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is magnetism important",
+    "answer": "Magnetism is a physical interaction associated with moving electric charges and magnetic fields; it can attract or repel magnetic materials and magnets.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is sound waves",
+    "answer": "Sound waves are mechanical vibrations that travel through material such as air, water, or solids; they cannot travel through a vacuum.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does sound waves work",
+    "answer": "Sound waves are mechanical vibrations that travel through material such as air, water, or solids; they cannot travel through a vacuum.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does sound waves play",
+    "answer": "Sound waves are mechanical vibrations that travel through material such as air, water, or solids; they cannot travel through a vacuum.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is sound waves important",
+    "answer": "Sound waves are mechanical vibrations that travel through material such as air, water, or solids; they cannot travel through a vacuum.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is visible light",
+    "answer": "Visible light is the portion of electromagnetic radiation that human eyes can detect, with wavelengths of roughly 380 to 700 nanometers.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does visible light work",
+    "answer": "Visible light is the portion of electromagnetic radiation that human eyes can detect, with wavelengths of roughly 380 to 700 nanometers.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does visible light play",
+    "answer": "Visible light is the portion of electromagnetic radiation that human eyes can detect, with wavelengths of roughly 380 to 700 nanometers.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is visible light important",
+    "answer": "Visible light is the portion of electromagnetic radiation that human eyes can detect, with wavelengths of roughly 380 to 700 nanometers.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is gravity",
+    "answer": "Gravity is the attraction associated with mass and energy. On Earth it gives objects weight and keeps the Moon in orbit; general relativity describes it as spacetime curvature.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does gravity work",
+    "answer": "Gravity is the attraction associated with mass and energy. On Earth it gives objects weight and keeps the Moon in orbit; general relativity describes it as spacetime curvature.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does gravity play",
+    "answer": "Gravity is the attraction associated with mass and energy. On Earth it gives objects weight and keeps the Moon in orbit; general relativity describes it as spacetime curvature.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is gravity important",
+    "answer": "Gravity is the attraction associated with mass and energy. On Earth it gives objects weight and keeps the Moon in orbit; general relativity describes it as spacetime curvature.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is the water cycle",
+    "answer": "The water cycle describes water moving among the atmosphere, land, and oceans through evaporation, condensation, precipitation, and runoff.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does the water cycle work",
+    "answer": "The water cycle describes water moving among the atmosphere, land, and oceans through evaporation, condensation, precipitation, and runoff.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does the water cycle play",
+    "answer": "The water cycle describes water moving among the atmosphere, land, and oceans through evaporation, condensation, precipitation, and runoff.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is the water cycle important",
+    "answer": "The water cycle describes water moving among the atmosphere, land, and oceans through evaporation, condensation, precipitation, and runoff.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is evaporation",
+    "answer": "Evaporation is the change from liquid to gas at a surface, and it can happen below the liquid?s boiling point.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does evaporation work",
+    "answer": "Evaporation is the change from liquid to gas at a surface, and it can happen below the liquid?s boiling point.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does evaporation play",
+    "answer": "Evaporation is the change from liquid to gas at a surface, and it can happen below the liquid?s boiling point.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is evaporation important",
+    "answer": "Evaporation is the change from liquid to gas at a surface, and it can happen below the liquid?s boiling point.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is condensation",
+    "answer": "Condensation is the change from gas to liquid, such as water vapor forming droplets on a cool surface.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does condensation work",
+    "answer": "Condensation is the change from gas to liquid, such as water vapor forming droplets on a cool surface.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does condensation play",
+    "answer": "Condensation is the change from gas to liquid, such as water vapor forming droplets on a cool surface.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is condensation important",
+    "answer": "Condensation is the change from gas to liquid, such as water vapor forming droplets on a cool surface.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is an ecosystem",
+    "answer": "An ecosystem includes living organisms and the nonliving parts of their environment, together with the interactions among them.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does an ecosystem work",
+    "answer": "An ecosystem includes living organisms and the nonliving parts of their environment, together with the interactions among them.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does an ecosystem play",
+    "answer": "An ecosystem includes living organisms and the nonliving parts of their environment, together with the interactions among them.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is an ecosystem important",
+    "answer": "An ecosystem includes living organisms and the nonliving parts of their environment, together with the interactions among them.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is biological evolution",
+    "answer": "Biological evolution is the change in inherited characteristics of populations across generations. Natural selection is one mechanism that can drive it.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does biological evolution work",
+    "answer": "Biological evolution is the change in inherited characteristics of populations across generations. Natural selection is one mechanism that can drive it.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does biological evolution play",
+    "answer": "Biological evolution is the change in inherited characteristics of populations across generations. Natural selection is one mechanism that can drive it.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is biological evolution important",
+    "answer": "Biological evolution is the change in inherited characteristics of populations across generations. Natural selection is one mechanism that can drive it.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is plate tectonics",
+    "answer": "Plate tectonics is the theory that Earth?s outer shell is divided into moving plates whose interactions shape continents, mountains, earthquakes, and ocean basins.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does plate tectonics work",
+    "answer": "Plate tectonics is the theory that Earth?s outer shell is divided into moving plates whose interactions shape continents, mountains, earthquakes, and ocean basins.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does plate tectonics play",
+    "answer": "Plate tectonics is the theory that Earth?s outer shell is divided into moving plates whose interactions shape continents, mountains, earthquakes, and ocean basins.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is plate tectonics important",
+    "answer": "Plate tectonics is the theory that Earth?s outer shell is divided into moving plates whose interactions shape continents, mountains, earthquakes, and ocean basins.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is a volcano",
+    "answer": "A volcano is an opening or landform through which molten rock, gases, and ash can reach Earth?s surface.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does a volcano work",
+    "answer": "A volcano is an opening or landform through which molten rock, gases, and ash can reach Earth?s surface.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does a volcano play",
+    "answer": "A volcano is an opening or landform through which molten rock, gases, and ash can reach Earth?s surface.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is a volcano important",
+    "answer": "A volcano is an opening or landform through which molten rock, gases, and ash can reach Earth?s surface.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is a black hole",
+    "answer": "A black hole is a region of spacetime whose gravity is so strong that nothing, including light, can escape from inside its event horizon.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does a black hole work",
+    "answer": "A black hole is a region of spacetime whose gravity is so strong that nothing, including light, can escape from inside its event horizon.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does a black hole play",
+    "answer": "A black hole is a region of spacetime whose gravity is so strong that nothing, including light, can escape from inside its event horizon.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is a black hole important",
+    "answer": "A black hole is a region of spacetime whose gravity is so strong that nothing, including light, can escape from inside its event horizon.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is an orbit",
+    "answer": "An orbit is the path one object follows around another under gravity or another central force; planets orbit the Sun in paths close to ellipses.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does an orbit work",
+    "answer": "An orbit is the path one object follows around another under gravity or another central force; planets orbit the Sun in paths close to ellipses.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does an orbit play",
+    "answer": "An orbit is the path one object follows around another under gravity or another central force; planets orbit the Sun in paths close to ellipses.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is an orbit important",
+    "answer": "An orbit is the path one object follows around another under gravity or another central force; planets orbit the Sun in paths close to ellipses.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is a solar eclipse",
+    "answer": "A solar eclipse occurs when the Moon passes between Earth and the Sun and blocks some or all of the Sun from a location on Earth.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does a solar eclipse work",
+    "answer": "A solar eclipse occurs when the Moon passes between Earth and the Sun and blocks some or all of the Sun from a location on Earth.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does a solar eclipse play",
+    "answer": "A solar eclipse occurs when the Moon passes between Earth and the Sun and blocks some or all of the Sun from a location on Earth.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is a solar eclipse important",
+    "answer": "A solar eclipse occurs when the Moon passes between Earth and the Sun and blocks some or all of the Sun from a location on Earth.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is the greenhouse effect",
+    "answer": "The greenhouse effect is the warming that occurs when gases in an atmosphere absorb and re-emit infrared radiation. Human activities have strengthened Earth?s natural greenhouse effect.",
+    "topic": "Science"
+  },
+  {
+    "question": "how does the greenhouse effect work",
+    "answer": "The greenhouse effect is the warming that occurs when gases in an atmosphere absorb and re-emit infrared radiation. Human activities have strengthened Earth?s natural greenhouse effect.",
+    "topic": "Science"
+  },
+  {
+    "question": "what role does the greenhouse effect play",
+    "answer": "The greenhouse effect is the warming that occurs when gases in an atmosphere absorb and re-emit infrared radiation. Human activities have strengthened Earth?s natural greenhouse effect.",
+    "topic": "Science"
+  },
+  {
+    "question": "why is the greenhouse effect important",
+    "answer": "The greenhouse effect is the warming that occurs when gases in an atmosphere absorb and re-emit infrared radiation. Human activities have strengthened Earth?s natural greenhouse effect.",
+    "topic": "Science"
+  },
+  {
+    "question": "what is the human brain",
+    "answer": "The human brain is the central organ of the nervous system. It processes information and helps coordinate movement, sensation, memory, emotion, and many body functions.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does the human brain work",
+    "answer": "The human brain is the central organ of the nervous system. It processes information and helps coordinate movement, sensation, memory, emotion, and many body functions.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is the human brain important",
+    "answer": "The human brain is the central organ of the nervous system. It processes information and helps coordinate movement, sensation, memory, emotion, and many body functions.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain the human brain simply",
+    "answer": "The human brain is the central organ of the nervous system. It processes information and helps coordinate movement, sensation, memory, emotion, and many body functions.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is a neuron",
+    "answer": "A neuron is a nerve cell that receives and transmits information using electrical signals and chemical messengers.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does a neuron work",
+    "answer": "A neuron is a nerve cell that receives and transmits information using electrical signals and chemical messengers.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is a neuron important",
+    "answer": "A neuron is a nerve cell that receives and transmits information using electrical signals and chemical messengers.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain a neuron simply",
+    "answer": "A neuron is a nerve cell that receives and transmits information using electrical signals and chemical messengers.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is the human heart",
+    "answer": "The human heart is a muscular organ that pumps blood through the lungs and the rest of the body.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does the human heart work",
+    "answer": "The human heart is a muscular organ that pumps blood through the lungs and the rest of the body.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is the human heart important",
+    "answer": "The human heart is a muscular organ that pumps blood through the lungs and the rest of the body.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain the human heart simply",
+    "answer": "The human heart is a muscular organ that pumps blood through the lungs and the rest of the body.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is blood",
+    "answer": "Blood is a circulating tissue that carries oxygen, nutrients, hormones, and waste products. It contains plasma, red cells, white cells, and platelets.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does blood work",
+    "answer": "Blood is a circulating tissue that carries oxygen, nutrients, hormones, and waste products. It contains plasma, red cells, white cells, and platelets.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is blood important",
+    "answer": "Blood is a circulating tissue that carries oxygen, nutrients, hormones, and waste products. It contains plasma, red cells, white cells, and platelets.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain blood simply",
+    "answer": "Blood is a circulating tissue that carries oxygen, nutrients, hormones, and waste products. It contains plasma, red cells, white cells, and platelets.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is the human lung",
+    "answer": "The lungs are organs where gas exchange occurs: oxygen enters the blood and carbon dioxide leaves it to be exhaled.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does the human lung work",
+    "answer": "The lungs are organs where gas exchange occurs: oxygen enters the blood and carbon dioxide leaves it to be exhaled.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is the human lung important",
+    "answer": "The lungs are organs where gas exchange occurs: oxygen enters the blood and carbon dioxide leaves it to be exhaled.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain the human lung simply",
+    "answer": "The lungs are organs where gas exchange occurs: oxygen enters the blood and carbon dioxide leaves it to be exhaled.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human digestion",
+    "answer": "Digestion breaks food into absorbable nutrients and moves waste out of the body, using organs including the stomach and intestines.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human digestion work",
+    "answer": "Digestion breaks food into absorbable nutrients and moves waste out of the body, using organs including the stomach and intestines.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human digestion important",
+    "answer": "Digestion breaks food into absorbable nutrients and moves waste out of the body, using organs including the stomach and intestines.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human digestion simply",
+    "answer": "Digestion breaks food into absorbable nutrients and moves waste out of the body, using organs including the stomach and intestines.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is the human immune system",
+    "answer": "The immune system is a network of cells, tissues, and organs that recognizes and helps defend the body against pathogens and other threats.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does the human immune system work",
+    "answer": "The immune system is a network of cells, tissues, and organs that recognizes and helps defend the body against pathogens and other threats.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is the human immune system important",
+    "answer": "The immune system is a network of cells, tissues, and organs that recognizes and helps defend the body against pathogens and other threats.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain the human immune system simply",
+    "answer": "The immune system is a network of cells, tissues, and organs that recognizes and helps defend the body against pathogens and other threats.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human dna",
+    "answer": "DNA is the molecule that stores inherited genetic information in humans and most other organisms.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human dna work",
+    "answer": "DNA is the molecule that stores inherited genetic information in humans and most other organisms.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human dna important",
+    "answer": "DNA is the molecule that stores inherited genetic information in humans and most other organisms.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human dna simply",
+    "answer": "DNA is the molecule that stores inherited genetic information in humans and most other organisms.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is a human cell",
+    "answer": "A human cell is the basic living unit of the body. Most cells contain a nucleus with DNA, a cell membrane, and specialized internal structures.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does a human cell work",
+    "answer": "A human cell is the basic living unit of the body. Most cells contain a nucleus with DNA, a cell membrane, and specialized internal structures.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is a human cell important",
+    "answer": "A human cell is the basic living unit of the body. Most cells contain a nucleus with DNA, a cell membrane, and specialized internal structures.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain a human cell simply",
+    "answer": "A human cell is the basic living unit of the body. Most cells contain a nucleus with DNA, a cell membrane, and specialized internal structures.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is the adult human skeleton",
+    "answer": "The adult human skeleton usually has 206 bones. It supports the body, protects organs, and works with muscles to enable movement.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does the adult human skeleton work",
+    "answer": "The adult human skeleton usually has 206 bones. It supports the body, protects organs, and works with muscles to enable movement.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is the adult human skeleton important",
+    "answer": "The adult human skeleton usually has 206 bones. It supports the body, protects organs, and works with muscles to enable movement.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain the adult human skeleton simply",
+    "answer": "The adult human skeleton usually has 206 bones. It supports the body, protects organs, and works with muscles to enable movement.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human muscle tissue",
+    "answer": "Muscles generate force by contracting. Skeletal muscles help move the body, while smooth and cardiac muscles work inside organs and the heart.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human muscle tissue work",
+    "answer": "Muscles generate force by contracting. Skeletal muscles help move the body, while smooth and cardiac muscles work inside organs and the heart.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human muscle tissue important",
+    "answer": "Muscles generate force by contracting. Skeletal muscles help move the body, while smooth and cardiac muscles work inside organs and the heart.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human muscle tissue simply",
+    "answer": "Muscles generate force by contracting. Skeletal muscles help move the body, while smooth and cardiac muscles work inside organs and the heart.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is a human hormone",
+    "answer": "Hormones are chemical messengers released by glands and other tissues that help regulate functions such as growth, metabolism, and reproduction.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does a human hormone work",
+    "answer": "Hormones are chemical messengers released by glands and other tissues that help regulate functions such as growth, metabolism, and reproduction.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is a human hormone important",
+    "answer": "Hormones are chemical messengers released by glands and other tissues that help regulate functions such as growth, metabolism, and reproduction.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain a human hormone simply",
+    "answer": "Hormones are chemical messengers released by glands and other tissues that help regulate functions such as growth, metabolism, and reproduction.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human sensory perception",
+    "answer": "People commonly describe sight, hearing, smell, taste, and touch as the five senses; humans also sense balance, body position, temperature, and pain.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human sensory perception work",
+    "answer": "People commonly describe sight, hearing, smell, taste, and touch as the five senses; humans also sense balance, body position, temperature, and pain.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human sensory perception important",
+    "answer": "People commonly describe sight, hearing, smell, taste, and touch as the five senses; humans also sense balance, body position, temperature, and pain.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human sensory perception simply",
+    "answer": "People commonly describe sight, hearing, smell, taste, and touch as the five senses; humans also sense balance, body position, temperature, and pain.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human memory",
+    "answer": "Memory is the set of processes by which the brain encodes, stores, and later retrieves information and experiences.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human memory work",
+    "answer": "Memory is the set of processes by which the brain encodes, stores, and later retrieves information and experiences.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human memory important",
+    "answer": "Memory is the set of processes by which the brain encodes, stores, and later retrieves information and experiences.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human memory simply",
+    "answer": "Memory is the set of processes by which the brain encodes, stores, and later retrieves information and experiences.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human sleep",
+    "answer": "Sleep is a recurring state of reduced awareness that supports health, learning, and normal body regulation. Sleep needs vary with age and individual.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human sleep work",
+    "answer": "Sleep is a recurring state of reduced awareness that supports health, learning, and normal body regulation. Sleep needs vary with age and individual.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human sleep important",
+    "answer": "Sleep is a recurring state of reduced awareness that supports health, learning, and normal body regulation. Sleep needs vary with age and individual.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human sleep simply",
+    "answer": "Sleep is a recurring state of reduced awareness that supports health, learning, and normal body regulation. Sleep needs vary with age and individual.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human hydration",
+    "answer": "Hydration is maintaining enough body water for normal functions such as temperature regulation, circulation, and waste removal.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human hydration work",
+    "answer": "Hydration is maintaining enough body water for normal functions such as temperature regulation, circulation, and waste removal.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human hydration important",
+    "answer": "Hydration is maintaining enough body water for normal functions such as temperature regulation, circulation, and waste removal.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human hydration simply",
+    "answer": "Hydration is maintaining enough body water for normal functions such as temperature regulation, circulation, and waste removal.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human nutrition",
+    "answer": "Nutrition is how the body obtains and uses energy and nutrients from food, including carbohydrates, fats, proteins, vitamins, minerals, and water.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human nutrition work",
+    "answer": "Nutrition is how the body obtains and uses energy and nutrients from food, including carbohydrates, fats, proteins, vitamins, minerals, and water.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human nutrition important",
+    "answer": "Nutrition is how the body obtains and uses energy and nutrients from food, including carbohydrates, fats, proteins, vitamins, minerals, and water.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human nutrition simply",
+    "answer": "Nutrition is how the body obtains and uses energy and nutrients from food, including carbohydrates, fats, proteins, vitamins, minerals, and water.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human stress",
+    "answer": "Stress is the body and mind?s response to demands or challenges. Short-term stress can be adaptive, while ongoing severe stress can affect health.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human stress work",
+    "answer": "Stress is the body and mind?s response to demands or challenges. Short-term stress can be adaptive, while ongoing severe stress can affect health.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human stress important",
+    "answer": "Stress is the body and mind?s response to demands or challenges. Short-term stress can be adaptive, while ongoing severe stress can affect health.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human stress simply",
+    "answer": "Stress is the body and mind?s response to demands or challenges. Short-term stress can be adaptive, while ongoing severe stress can affect health.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human emotions",
+    "answer": "Emotions are responses involving feelings, body changes, and behavior that help people interpret and respond to experiences.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human emotions work",
+    "answer": "Emotions are responses involving feelings, body changes, and behavior that help people interpret and respond to experiences.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human emotions important",
+    "answer": "Emotions are responses involving feelings, body changes, and behavior that help people interpret and respond to experiences.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human emotions simply",
+    "answer": "Emotions are responses involving feelings, body changes, and behavior that help people interpret and respond to experiences.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is a human reflex",
+    "answer": "A reflex is a rapid, automatic response to a stimulus. Some reflexes are coordinated through the spinal cord before the brain processes the sensation.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does a human reflex work",
+    "answer": "A reflex is a rapid, automatic response to a stimulus. Some reflexes are coordinated through the spinal cord before the brain processes the sensation.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is a human reflex important",
+    "answer": "A reflex is a rapid, automatic response to a stimulus. Some reflexes are coordinated through the spinal cord before the brain processes the sensation.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain a human reflex simply",
+    "answer": "A reflex is a rapid, automatic response to a stimulus. Some reflexes are coordinated through the spinal cord before the brain processes the sensation.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human language",
+    "answer": "Human language is a shared system of symbols and rules people use to communicate, express ideas, and pass knowledge across generations.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human language work",
+    "answer": "Human language is a shared system of symbols and rules people use to communicate, express ideas, and pass knowledge across generations.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human language important",
+    "answer": "Human language is a shared system of symbols and rules people use to communicate, express ideas, and pass knowledge across generations.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human language simply",
+    "answer": "Human language is a shared system of symbols and rules people use to communicate, express ideas, and pass knowledge across generations.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human learning",
+    "answer": "Learning is a process through which experience and practice produce changes in knowledge, skills, or behavior.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human learning work",
+    "answer": "Learning is a process through which experience and practice produce changes in knowledge, skills, or behavior.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human learning important",
+    "answer": "Learning is a process through which experience and practice produce changes in knowledge, skills, or behavior.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human learning simply",
+    "answer": "Learning is a process through which experience and practice produce changes in knowledge, skills, or behavior.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human adolescence",
+    "answer": "Adolescence is the developmental period between childhood and adulthood, involving physical, cognitive, and social changes; its timing varies among people.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human adolescence work",
+    "answer": "Adolescence is the developmental period between childhood and adulthood, involving physical, cognitive, and social changes; its timing varies among people.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human adolescence important",
+    "answer": "Adolescence is the developmental period between childhood and adulthood, involving physical, cognitive, and social changes; its timing varies among people.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human adolescence simply",
+    "answer": "Adolescence is the developmental period between childhood and adulthood, involving physical, cognitive, and social changes; its timing varies among people.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is the human microbiome",
+    "answer": "The human microbiome is the collection of microorganisms and their genetic material living on and in the body, especially in the gut.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does the human microbiome work",
+    "answer": "The human microbiome is the collection of microorganisms and their genetic material living on and in the body, especially in the gut.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is the human microbiome important",
+    "answer": "The human microbiome is the collection of microorganisms and their genetic material living on and in the body, especially in the gut.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain the human microbiome simply",
+    "answer": "The human microbiome is the collection of microorganisms and their genetic material living on and in the body, especially in the gut.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is human empathy",
+    "answer": "Empathy is the ability to understand or share aspects of another person?s feelings or perspective; it can support communication and cooperation.",
+    "topic": "Humans"
+  },
+  {
+    "question": "how does human empathy work",
+    "answer": "Empathy is the ability to understand or share aspects of another person?s feelings or perspective; it can support communication and cooperation.",
+    "topic": "Humans"
+  },
+  {
+    "question": "why is human empathy important",
+    "answer": "Empathy is the ability to understand or share aspects of another person?s feelings or perspective; it can support communication and cooperation.",
+    "topic": "Humans"
+  },
+  {
+    "question": "explain human empathy simply",
+    "answer": "Empathy is the ability to understand or share aspects of another person?s feelings or perspective; it can support communication and cooperation.",
+    "topic": "Humans"
+  },
+  {
+    "question": "what is the largest ocean on earth",
+    "answer": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the largest ocean on earth",
+    "answer": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the largest ocean on earth",
+    "answer": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the largest ocean on earth",
+    "answer": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the highest mountain above sea level",
+    "answer": "Mount Everest, in the Himalayas on the Nepal?China border, is the highest mountain above sea level at about 8,849 metres.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the highest mountain above sea level",
+    "answer": "Mount Everest, in the Himalayas on the Nepal?China border, is the highest mountain above sea level at about 8,849 metres.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the highest mountain above sea level",
+    "answer": "Mount Everest, in the Himalayas on the Nepal?China border, is the highest mountain above sea level at about 8,849 metres.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the highest mountain above sea level",
+    "answer": "Mount Everest, in the Himalayas on the Nepal?China border, is the highest mountain above sea level at about 8,849 metres.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the largest continent by area",
+    "answer": "Asia is the largest continent by area and population.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the largest continent by area",
+    "answer": "Asia is the largest continent by area and population.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the largest continent by area",
+    "answer": "Asia is the largest continent by area and population.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the largest continent by area",
+    "answer": "Asia is the largest continent by area and population.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the smallest continent by area",
+    "answer": "Australia is the smallest continent by area in the common seven-continent model.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the smallest continent by area",
+    "answer": "Australia is the smallest continent by area in the common seven-continent model.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the smallest continent by area",
+    "answer": "Australia is the smallest continent by area in the common seven-continent model.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the smallest continent by area",
+    "answer": "Australia is the smallest continent by area in the common seven-continent model.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the largest country by area",
+    "answer": "Russia is the world?s largest country by total area.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the largest country by area",
+    "answer": "Russia is the world?s largest country by total area.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the largest country by area",
+    "answer": "Russia is the world?s largest country by total area.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the largest country by area",
+    "answer": "Russia is the world?s largest country by total area.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the smallest independent country",
+    "answer": "Vatican City is the world?s smallest independent state by area and population.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the smallest independent country",
+    "answer": "Vatican City is the world?s smallest independent state by area and population.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the smallest independent country",
+    "answer": "Vatican City is the world?s smallest independent state by area and population.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the smallest independent country",
+    "answer": "Vatican City is the world?s smallest independent state by area and population.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the capital of japan",
+    "answer": "Tokyo is the capital of Japan.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the capital of japan",
+    "answer": "Tokyo is the capital of Japan.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the capital of japan",
+    "answer": "Tokyo is the capital of Japan.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the capital of japan",
+    "answer": "Tokyo is the capital of Japan.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the capital of france",
+    "answer": "Paris is the capital of France.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the capital of france",
+    "answer": "Paris is the capital of France.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the capital of france",
+    "answer": "Paris is the capital of France.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the capital of france",
+    "answer": "Paris is the capital of France.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the capital of australia",
+    "answer": "Canberra is the capital of Australia.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the capital of australia",
+    "answer": "Canberra is the capital of Australia.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the capital of australia",
+    "answer": "Canberra is the capital of Australia.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the capital of australia",
+    "answer": "Canberra is the capital of Australia.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the capital of canada",
+    "answer": "Ottawa is the capital of Canada.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the capital of canada",
+    "answer": "Ottawa is the capital of Canada.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the capital of canada",
+    "answer": "Ottawa is the capital of Canada.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the capital of canada",
+    "answer": "Ottawa is the capital of Canada.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the capital of brazil",
+    "answer": "Bras?lia is the capital of Brazil.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the capital of brazil",
+    "answer": "Bras?lia is the capital of Brazil.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the capital of brazil",
+    "answer": "Bras?lia is the capital of Brazil.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the capital of brazil",
+    "answer": "Bras?lia is the capital of Brazil.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the number of planets in the solar system",
+    "answer": "There are eight recognized planets in the Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the number of planets in the solar system",
+    "answer": "There are eight recognized planets in the Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the number of planets in the solar system",
+    "answer": "There are eight recognized planets in the Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the number of planets in the solar system",
+    "answer": "There are eight recognized planets in the Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the largest planet in the solar system",
+    "answer": "Jupiter is the largest planet in the Solar System.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the largest planet in the solar system",
+    "answer": "Jupiter is the largest planet in the Solar System.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the largest planet in the solar system",
+    "answer": "Jupiter is the largest planet in the Solar System.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the largest planet in the solar system",
+    "answer": "Jupiter is the largest planet in the Solar System.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the deepest known ocean trench",
+    "answer": "The Mariana Trench in the western Pacific contains the deepest known parts of the ocean, including the Challenger Deep.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the deepest known ocean trench",
+    "answer": "The Mariana Trench in the western Pacific contains the deepest known parts of the ocean, including the Challenger Deep.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the deepest known ocean trench",
+    "answer": "The Mariana Trench in the western Pacific contains the deepest known parts of the ocean, including the Challenger Deep.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the deepest known ocean trench",
+    "answer": "The Mariana Trench in the western Pacific contains the deepest known parts of the ocean, including the Challenger Deep.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the largest hot desert",
+    "answer": "The Sahara is the largest hot desert on Earth. Antarctica is larger if cold deserts are included.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the largest hot desert",
+    "answer": "The Sahara is the largest hot desert on Earth. Antarctica is larger if cold deserts are included.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the largest hot desert",
+    "answer": "The Sahara is the largest hot desert on Earth. Antarctica is larger if cold deserts are included.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the largest hot desert",
+    "answer": "The Sahara is the largest hot desert on Earth. Antarctica is larger if cold deserts are included.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the number of natural moons orbiting earth",
+    "answer": "Earth has one natural moon, commonly called the Moon.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the number of natural moons orbiting earth",
+    "answer": "Earth has one natural moon, commonly called the Moon.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the number of natural moons orbiting earth",
+    "answer": "Earth has one natural moon, commonly called the Moon.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the number of natural moons orbiting earth",
+    "answer": "Earth has one natural moon, commonly called the Moon.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the number of days in a leap year",
+    "answer": "A leap year has 366 days, with an extra day added to February in the Gregorian calendar.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the number of days in a leap year",
+    "answer": "A leap year has 366 days, with an extra day added to February in the Gregorian calendar.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the number of days in a leap year",
+    "answer": "A leap year has 366 days, with an extra day added to February in the Gregorian calendar.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the number of days in a leap year",
+    "answer": "A leap year has 366 days, with an extra day added to February in the Gregorian calendar.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the number of bones in a typical adult human",
+    "answer": "A typical adult human skeleton has 206 bones, though natural variation and how bones are counted can affect the total.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the number of bones in a typical adult human",
+    "answer": "A typical adult human skeleton has 206 bones, though natural variation and how bones are counted can affect the total.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the number of bones in a typical adult human",
+    "answer": "A typical adult human skeleton has 206 bones, though natural variation and how bones are counted can affect the total.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the number of bones in a typical adult human",
+    "answer": "A typical adult human skeleton has 206 bones, though natural variation and how bones are counted can affect the total.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the number of oceans commonly recognized on earth",
+    "answer": "Five oceans are commonly recognized: the Pacific, Atlantic, Indian, Southern, and Arctic.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the number of oceans commonly recognized on earth",
+    "answer": "Five oceans are commonly recognized: the Pacific, Atlantic, Indian, Southern, and Arctic.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the number of oceans commonly recognized on earth",
+    "answer": "Five oceans are commonly recognized: the Pacific, Atlantic, Indian, Southern, and Arctic.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the number of oceans commonly recognized on earth",
+    "answer": "Five oceans are commonly recognized: the Pacific, Atlantic, Indian, Southern, and Arctic.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the number of squares on a chessboard",
+    "answer": "A standard chessboard has 64 squares arranged in 8 rows and 8 columns.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the number of squares on a chessboard",
+    "answer": "A standard chessboard has 64 squares arranged in 8 rows and 8 columns.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the number of squares on a chessboard",
+    "answer": "A standard chessboard has 64 squares arranged in 8 rows and 8 columns.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the number of squares on a chessboard",
+    "answer": "A standard chessboard has 64 squares arranged in 8 rows and 8 columns.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the chemical symbol for gold",
+    "answer": "The chemical symbol for gold is Au, from the Latin word aurum.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the chemical symbol for gold",
+    "answer": "The chemical symbol for gold is Au, from the Latin word aurum.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the chemical symbol for gold",
+    "answer": "The chemical symbol for gold is Au, from the Latin word aurum.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the chemical symbol for gold",
+    "answer": "The chemical symbol for gold is Au, from the Latin word aurum.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the chemical symbol for oxygen",
+    "answer": "The chemical symbol for oxygen is O; oxygen gas commonly occurs as O?.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the chemical symbol for oxygen",
+    "answer": "The chemical symbol for oxygen is O; oxygen gas commonly occurs as O?.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the chemical symbol for oxygen",
+    "answer": "The chemical symbol for oxygen is O; oxygen gas commonly occurs as O?.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the chemical symbol for oxygen",
+    "answer": "The chemical symbol for oxygen is O; oxygen gas commonly occurs as O?.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the currency used in japan",
+    "answer": "Japan?s currency is the yen, written with the symbol ? and the code JPY.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the currency used in japan",
+    "answer": "Japan?s currency is the yen, written with the symbol ? and the code JPY.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the currency used in japan",
+    "answer": "Japan?s currency is the yen, written with the symbol ? and the code JPY.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the currency used in japan",
+    "answer": "Japan?s currency is the yen, written with the symbol ? and the code JPY.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the number of official united nations languages",
+    "answer": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the number of official united nations languages",
+    "answer": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the number of official united nations languages",
+    "answer": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the number of official united nations languages",
+    "answer": "The United Nations has six official languages: Arabic, Chinese, English, French, Russian, and Spanish.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "what is the star closest to earth",
+    "answer": "The Sun is the star closest to Earth. The nearest star beyond the Sun is Proxima Centauri.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "quick general knowledge question: what is the star closest to earth",
+    "answer": "The Sun is the star closest to Earth. The nearest star beyond the Sun is Proxima Centauri.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "please answer this: what is the star closest to earth",
+    "answer": "The Sun is the star closest to Earth. The nearest star beyond the Sun is Proxima Centauri.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "can you tell me: what is the star closest to earth",
+    "answer": "The Sun is the star closest to Earth. The nearest star beyond the Sun is Proxima Centauri.",
+    "topic": "General knowledge"
+  },
+  {
+    "question": "tell me a short story about friendship",
+    "answer": "Maya saved a seat for the new student, Leo, who was nervous at lunch. By the end of the week they were trading jokes and walking home together.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about friendship",
+    "answer": "Maya saved a seat for the new student, Leo, who was nervous at lunch. By the end of the week they were trading jokes and walking home together.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about friendship",
+    "answer": "Maya saved a seat for the new student, Leo, who was nervous at lunch. By the end of the week they were trading jokes and walking home together.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring friendship",
+    "answer": "Maya saved a seat for the new student, Leo, who was nervous at lunch. By the end of the week they were trading jokes and walking home together.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a lost kite",
+    "answer": "A red kite landed in a tall tree, and Arun worried he had lost it forever. His neighbors formed a human chain and helped him bring it safely down.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a lost kite",
+    "answer": "A red kite landed in a tall tree, and Arun worried he had lost it forever. His neighbors formed a human chain and helped him bring it safely down.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a lost kite",
+    "answer": "A red kite landed in a tall tree, and Arun worried he had lost it forever. His neighbors formed a human chain and helped him bring it safely down.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a lost kite",
+    "answer": "A red kite landed in a tall tree, and Arun worried he had lost it forever. His neighbors formed a human chain and helped him bring it safely down.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a helpful robot",
+    "answer": "R-7 was built to sort books, but it noticed its inventor was tired. It learned to make tea and placed a warm cup beside her unfinished plans.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a helpful robot",
+    "answer": "R-7 was built to sort books, but it noticed its inventor was tired. It learned to make tea and placed a warm cup beside her unfinished plans.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a helpful robot",
+    "answer": "R-7 was built to sort books, but it noticed its inventor was tired. It learned to make tea and placed a warm cup beside her unfinished plans.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a helpful robot",
+    "answer": "R-7 was built to sort books, but it noticed its inventor was tired. It learned to make tea and placed a warm cup beside her unfinished plans.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about an honest woodcutter",
+    "answer": "A woodcutter dropped his axe into a river and refused to claim a golden one that was not his. His honesty earned him back his own axe and the villagers? trust.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about an honest woodcutter",
+    "answer": "A woodcutter dropped his axe into a river and refused to claim a golden one that was not his. His honesty earned him back his own axe and the villagers? trust.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about an honest woodcutter",
+    "answer": "A woodcutter dropped his axe into a river and refused to claim a golden one that was not his. His honesty earned him back his own axe and the villagers? trust.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring an honest woodcutter",
+    "answer": "A woodcutter dropped his axe into a river and refused to claim a golden one that was not his. His honesty earned him back his own axe and the villagers? trust.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a brave mouse",
+    "answer": "A tiny mouse heard a lion caught in a net and gnawed through the ropes. The lion was free, and both learned that courage is not measured by size.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a brave mouse",
+    "answer": "A tiny mouse heard a lion caught in a net and gnawed through the ropes. The lion was free, and both learned that courage is not measured by size.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a brave mouse",
+    "answer": "A tiny mouse heard a lion caught in a net and gnawed through the ropes. The lion was free, and both learned that courage is not measured by size.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a brave mouse",
+    "answer": "A tiny mouse heard a lion caught in a net and gnawed through the ropes. The lion was free, and both learned that courage is not measured by size.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a garden on the moon",
+    "answer": "Lina carried bean seeds to a Moon research station and planted them beneath a bright grow lamp. The first green leaf reminded the crew of home.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a garden on the moon",
+    "answer": "Lina carried bean seeds to a Moon research station and planted them beneath a bright grow lamp. The first green leaf reminded the crew of home.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a garden on the moon",
+    "answer": "Lina carried bean seeds to a Moon research station and planted them beneath a bright grow lamp. The first green leaf reminded the crew of home.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a garden on the moon",
+    "answer": "Lina carried bean seeds to a Moon research station and planted them beneath a bright grow lamp. The first green leaf reminded the crew of home.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a shared umbrella",
+    "answer": "During a sudden rain, Dev offered half his umbrella to a stranger carrying groceries. They reached the bus stop laughing, and the stranger shared warm biscuits.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a shared umbrella",
+    "answer": "During a sudden rain, Dev offered half his umbrella to a stranger carrying groceries. They reached the bus stop laughing, and the stranger shared warm biscuits.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a shared umbrella",
+    "answer": "During a sudden rain, Dev offered half his umbrella to a stranger carrying groceries. They reached the bus stop laughing, and the stranger shared warm biscuits.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a shared umbrella",
+    "answer": "During a sudden rain, Dev offered half his umbrella to a stranger carrying groceries. They reached the bus stop laughing, and the stranger shared warm biscuits.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a lighthouse keeper",
+    "answer": "When fog hid the coast, keeper Noor lit the old lighthouse before the storm arrived. A fishing boat followed its steady beam safely into harbor.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a lighthouse keeper",
+    "answer": "When fog hid the coast, keeper Noor lit the old lighthouse before the storm arrived. A fishing boat followed its steady beam safely into harbor.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a lighthouse keeper",
+    "answer": "When fog hid the coast, keeper Noor lit the old lighthouse before the storm arrived. A fishing boat followed its steady beam safely into harbor.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a lighthouse keeper",
+    "answer": "When fog hid the coast, keeper Noor lit the old lighthouse before the storm arrived. A fishing boat followed its steady beam safely into harbor.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a patient turtle",
+    "answer": "Tara the turtle took one careful step at a time toward the hilltop. The rabbits raced ahead, but Tara noticed the safest path and reached the view without a stumble.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a patient turtle",
+    "answer": "Tara the turtle took one careful step at a time toward the hilltop. The rabbits raced ahead, but Tara noticed the safest path and reached the view without a stumble.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a patient turtle",
+    "answer": "Tara the turtle took one careful step at a time toward the hilltop. The rabbits raced ahead, but Tara noticed the safest path and reached the view without a stumble.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a patient turtle",
+    "answer": "Tara the turtle took one careful step at a time toward the hilltop. The rabbits raced ahead, but Tara noticed the safest path and reached the view without a stumble.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a seed growing",
+    "answer": "A seed lay unnoticed in a crack until rain softened the soil. It pushed up a green shoot, and a child protected it until it became a small shade tree.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a seed growing",
+    "answer": "A seed lay unnoticed in a crack until rain softened the soil. It pushed up a green shoot, and a child protected it until it became a small shade tree.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a seed growing",
+    "answer": "A seed lay unnoticed in a crack until rain softened the soil. It pushed up a green shoot, and a child protected it until it became a small shade tree.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a seed growing",
+    "answer": "A seed lay unnoticed in a crack until rain softened the soil. It pushed up a green shoot, and a child protected it until it became a small shade tree.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a paper boat",
+    "answer": "Sam folded a paper boat and set it in a puddle after the rain. It sailed past leaves and stones, then stopped at a drain Sam cleared before the next storm.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a paper boat",
+    "answer": "Sam folded a paper boat and set it in a puddle after the rain. It sailed past leaves and stones, then stopped at a drain Sam cleared before the next storm.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a paper boat",
+    "answer": "Sam folded a paper boat and set it in a puddle after the rain. It sailed past leaves and stones, then stopped at a drain Sam cleared before the next storm.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a paper boat",
+    "answer": "Sam folded a paper boat and set it in a puddle after the rain. It sailed past leaves and stones, then stopped at a drain Sam cleared before the next storm.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a friendly dragon",
+    "answer": "A dragon?s sneeze warmed the village bakery ovens, so the baker invited it to help. The dragon learned to sneeze away from the flour and became the town?s favorite helper.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a friendly dragon",
+    "answer": "A dragon?s sneeze warmed the village bakery ovens, so the baker invited it to help. The dragon learned to sneeze away from the flour and became the town?s favorite helper.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a friendly dragon",
+    "answer": "A dragon?s sneeze warmed the village bakery ovens, so the baker invited it to help. The dragon learned to sneeze away from the flour and became the town?s favorite helper.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a friendly dragon",
+    "answer": "A dragon?s sneeze warmed the village bakery ovens, so the baker invited it to help. The dragon learned to sneeze away from the flour and became the town?s favorite helper.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a library cat",
+    "answer": "Mittens slept on the quietest shelf until a child came looking for a book about stars. The cat led her to the astronomy shelf and stayed for the whole story.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a library cat",
+    "answer": "Mittens slept on the quietest shelf until a child came looking for a book about stars. The cat led her to the astronomy shelf and stayed for the whole story.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a library cat",
+    "answer": "Mittens slept on the quietest shelf until a child came looking for a book about stars. The cat led her to the astronomy shelf and stayed for the whole story.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a library cat",
+    "answer": "Mittens slept on the quietest shelf until a child came looking for a book about stars. The cat led her to the astronomy shelf and stayed for the whole story.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a hidden map",
+    "answer": "Nila found a map behind a loose desk drawer and followed its clues around the house. The final X marked family photographs and a note from her grandmother.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a hidden map",
+    "answer": "Nila found a map behind a loose desk drawer and followed its clues around the house. The final X marked family photographs and a note from her grandmother.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a hidden map",
+    "answer": "Nila found a map behind a loose desk drawer and followed its clues around the house. The final X marked family photographs and a note from her grandmother.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a hidden map",
+    "answer": "Nila found a map behind a loose desk drawer and followed its clues around the house. The final X marked family photographs and a note from her grandmother.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a recycled bicycle",
+    "answer": "A broken bicycle seemed ready for the scrapyard, but Omar cleaned its chain and fixed its tire. He painted it blue and rode it to deliver library books.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a recycled bicycle",
+    "answer": "A broken bicycle seemed ready for the scrapyard, but Omar cleaned its chain and fixed its tire. He painted it blue and rode it to deliver library books.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a recycled bicycle",
+    "answer": "A broken bicycle seemed ready for the scrapyard, but Omar cleaned its chain and fixed its tire. He painted it blue and rode it to deliver library books.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a recycled bicycle",
+    "answer": "A broken bicycle seemed ready for the scrapyard, but Omar cleaned its chain and fixed its tire. He painted it blue and rode it to deliver library books.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a star baker",
+    "answer": "Pia?s first moon-shaped cookies came out crooked, so she shared them anyway. Everyone loved them, and the neighborhood bakery put her funny batch on the menu.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a star baker",
+    "answer": "Pia?s first moon-shaped cookies came out crooked, so she shared them anyway. Everyone loved them, and the neighborhood bakery put her funny batch on the menu.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a star baker",
+    "answer": "Pia?s first moon-shaped cookies came out crooked, so she shared them anyway. Everyone loved them, and the neighborhood bakery put her funny batch on the menu.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a star baker",
+    "answer": "Pia?s first moon-shaped cookies came out crooked, so she shared them anyway. Everyone loved them, and the neighborhood bakery put her funny batch on the menu.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a stormy day",
+    "answer": "When a storm cut the power, the family lit lanterns and told stories together. The rain sounded less frightening once everyone was listening and laughing.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a stormy day",
+    "answer": "When a storm cut the power, the family lit lanterns and told stories together. The rain sounded less frightening once everyone was listening and laughing.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a stormy day",
+    "answer": "When a storm cut the power, the family lit lanterns and told stories together. The rain sounded less frightening once everyone was listening and laughing.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a stormy day",
+    "answer": "When a storm cut the power, the family lit lanterns and told stories together. The rain sounded less frightening once everyone was listening and laughing.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a tiny inventor",
+    "answer": "Jun built a small wind-up fan from spare parts for his grandfather?s desk. It turned slowly, but it brought a smile and inspired Jun to keep experimenting.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a tiny inventor",
+    "answer": "Jun built a small wind-up fan from spare parts for his grandfather?s desk. It turned slowly, but it brought a smile and inspired Jun to keep experimenting.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a tiny inventor",
+    "answer": "Jun built a small wind-up fan from spare parts for his grandfather?s desk. It turned slowly, but it brought a smile and inspired Jun to keep experimenting.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a tiny inventor",
+    "answer": "Jun built a small wind-up fan from spare parts for his grandfather?s desk. It turned slowly, but it brought a smile and inspired Jun to keep experimenting.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about an old tree",
+    "answer": "An old oak had seen generations of children play beneath its branches. When a branch fell, the town used its wood to build a bench beside the tree.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about an old tree",
+    "answer": "An old oak had seen generations of children play beneath its branches. When a branch fell, the town used its wood to build a bench beside the tree.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about an old tree",
+    "answer": "An old oak had seen generations of children play beneath its branches. When a branch fell, the town used its wood to build a bench beside the tree.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring an old tree",
+    "answer": "An old oak had seen generations of children play beneath its branches. When a branch fell, the town used its wood to build a bench beside the tree.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a small act of kindness",
+    "answer": "Asha noticed her neighbor?s garden hose had burst and turned off the water before the yard flooded. The neighbor later helped Asha carry groceries upstairs.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a small act of kindness",
+    "answer": "Asha noticed her neighbor?s garden hose had burst and turned off the water before the yard flooded. The neighbor later helped Asha carry groceries upstairs.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a small act of kindness",
+    "answer": "Asha noticed her neighbor?s garden hose had burst and turned off the water before the yard flooded. The neighbor later helped Asha carry groceries upstairs.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a small act of kindness",
+    "answer": "Asha noticed her neighbor?s garden hose had burst and turned off the water before the yard flooded. The neighbor later helped Asha carry groceries upstairs.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a dog finding its way home",
+    "answer": "Pip the dog followed familiar smells after wandering from the park. A shopkeeper recognized his tag, called his family, and kept him safe until they arrived.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a dog finding its way home",
+    "answer": "Pip the dog followed familiar smells after wandering from the park. A shopkeeper recognized his tag, called his family, and kept him safe until they arrived.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a dog finding its way home",
+    "answer": "Pip the dog followed familiar smells after wandering from the park. A shopkeeper recognized his tag, called his family, and kept him safe until they arrived.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a dog finding its way home",
+    "answer": "Pip the dog followed familiar smells after wandering from the park. A shopkeeper recognized his tag, called his family, and kept him safe until they arrived.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a river cleanup",
+    "answer": "The children found plastic caught along the riverbank and asked adults for gloves and bags. By sunset the water?s edge was clear, and ducks returned to the reeds.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a river cleanup",
+    "answer": "The children found plastic caught along the riverbank and asked adults for gloves and bags. By sunset the water?s edge was clear, and ducks returned to the reeds.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a river cleanup",
+    "answer": "The children found plastic caught along the riverbank and asked adults for gloves and bags. By sunset the water?s edge was clear, and ducks returned to the reeds.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a river cleanup",
+    "answer": "The children found plastic caught along the riverbank and asked adults for gloves and bags. By sunset the water?s edge was clear, and ducks returned to the reeds.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about siblings working together",
+    "answer": "Mira and Kavin argued over a model bridge until they divided the work. One measured the beams while the other tied them, and their bridge held a stack of books.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about siblings working together",
+    "answer": "Mira and Kavin argued over a model bridge until they divided the work. One measured the beams while the other tied them, and their bridge held a stack of books.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about siblings working together",
+    "answer": "Mira and Kavin argued over a model bridge until they divided the work. One measured the beams while the other tied them, and their bridge held a stack of books.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring siblings working together",
+    "answer": "Mira and Kavin argued over a model bridge until they divided the work. One measured the beams while the other tied them, and their bridge held a stack of books.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a young astronaut",
+    "answer": "A child built a cardboard rocket and invited the neighbors on an imaginary mission. Each person contributed a skill, and their living room became a joyful space station.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a young astronaut",
+    "answer": "A child built a cardboard rocket and invited the neighbors on an imaginary mission. Each person contributed a skill, and their living room became a joyful space station.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a young astronaut",
+    "answer": "A child built a cardboard rocket and invited the neighbors on an imaginary mission. Each person contributed a skill, and their living room became a joyful space station.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a young astronaut",
+    "answer": "A child built a cardboard rocket and invited the neighbors on an imaginary mission. Each person contributed a skill, and their living room became a joyful space station.",
+    "topic": "Story"
+  },
+  {
+    "question": "tell me a short story about a village bell",
+    "answer": "The village bell rang whenever anyone needed help. One day it called everyone to carry water to a new sapling, and the tree grew strong in the town square.",
+    "topic": "Story"
+  },
+  {
+    "question": "write a brief story about a village bell",
+    "answer": "The village bell rang whenever anyone needed help. One day it called everyone to carry water to a new sapling, and the tree grew strong in the town square.",
+    "topic": "Story"
+  },
+  {
+    "question": "can you make up a tale about a village bell",
+    "answer": "The village bell rang whenever anyone needed help. One day it called everyone to carry water to a new sapling, and the tree grew strong in the town square.",
+    "topic": "Story"
+  },
+  {
+    "question": "give me a short story featuring a village bell",
+    "answer": "The village bell rang whenever anyone needed help. One day it called everyone to carry water to a new sapling, and the tree grew strong in the town square.",
+    "topic": "Story"
+  },
+  {
+    "question": "who wrote pride and prejudice",
+    "answer": "Pride and Prejudice was written by Jane Austen. The novel follows Elizabeth Bennet and explores class, family, and first impressions.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of pride and prejudice",
+    "answer": "Pride and Prejudice was written by Jane Austen. The novel follows Elizabeth Bennet and explores class, family, and first impressions.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of pride and prejudice",
+    "answer": "Pride and Prejudice was written by Jane Austen. The novel follows Elizabeth Bennet and explores class, family, and first impressions.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote pride and prejudice",
+    "answer": "Pride and Prejudice was written by Jane Austen. The novel follows Elizabeth Bennet and explores class, family, and first impressions.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote 1984",
+    "answer": "1984 was written by George Orwell. It is a dystopian novel about surveillance, propaganda, and authoritarian power.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of 1984",
+    "answer": "1984 was written by George Orwell. It is a dystopian novel about surveillance, propaganda, and authoritarian power.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of 1984",
+    "answer": "1984 was written by George Orwell. It is a dystopian novel about surveillance, propaganda, and authoritarian power.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote 1984",
+    "answer": "1984 was written by George Orwell. It is a dystopian novel about surveillance, propaganda, and authoritarian power.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote to kill a mockingbird",
+    "answer": "To Kill a Mockingbird was written by Harper Lee. Scout Finch narrates the novel, which examines justice and racial prejudice in the American South.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of to kill a mockingbird",
+    "answer": "To Kill a Mockingbird was written by Harper Lee. Scout Finch narrates the novel, which examines justice and racial prejudice in the American South.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of to kill a mockingbird",
+    "answer": "To Kill a Mockingbird was written by Harper Lee. Scout Finch narrates the novel, which examines justice and racial prejudice in the American South.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote to kill a mockingbird",
+    "answer": "To Kill a Mockingbird was written by Harper Lee. Scout Finch narrates the novel, which examines justice and racial prejudice in the American South.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote frankenstein",
+    "answer": "Frankenstein was written by Mary Shelley. Victor Frankenstein creates a living being, raising questions about responsibility and isolation.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of frankenstein",
+    "answer": "Frankenstein was written by Mary Shelley. Victor Frankenstein creates a living being, raising questions about responsibility and isolation.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of frankenstein",
+    "answer": "Frankenstein was written by Mary Shelley. Victor Frankenstein creates a living being, raising questions about responsibility and isolation.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote frankenstein",
+    "answer": "Frankenstein was written by Mary Shelley. Victor Frankenstein creates a living being, raising questions about responsibility and isolation.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote hamlet",
+    "answer": "Hamlet was written by William Shakespeare. The tragedy follows the Prince of Denmark as he responds to his father?s murder.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of hamlet",
+    "answer": "Hamlet was written by William Shakespeare. The tragedy follows the Prince of Denmark as he responds to his father?s murder.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of hamlet",
+    "answer": "Hamlet was written by William Shakespeare. The tragedy follows the Prince of Denmark as he responds to his father?s murder.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote hamlet",
+    "answer": "Hamlet was written by William Shakespeare. The tragedy follows the Prince of Denmark as he responds to his father?s murder.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote macbeth",
+    "answer": "Macbeth was written by William Shakespeare. The tragedy explores ambition and guilt after Macbeth is encouraged to seize the Scottish throne.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of macbeth",
+    "answer": "Macbeth was written by William Shakespeare. The tragedy explores ambition and guilt after Macbeth is encouraged to seize the Scottish throne.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of macbeth",
+    "answer": "Macbeth was written by William Shakespeare. The tragedy explores ambition and guilt after Macbeth is encouraged to seize the Scottish throne.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote macbeth",
+    "answer": "Macbeth was written by William Shakespeare. The tragedy explores ambition and guilt after Macbeth is encouraged to seize the Scottish throne.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote romeo and juliet",
+    "answer": "Romeo and Juliet was written by William Shakespeare. The tragedy tells of two young lovers from rival families in Verona.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of romeo and juliet",
+    "answer": "Romeo and Juliet was written by William Shakespeare. The tragedy tells of two young lovers from rival families in Verona.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of romeo and juliet",
+    "answer": "Romeo and Juliet was written by William Shakespeare. The tragedy tells of two young lovers from rival families in Verona.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote romeo and juliet",
+    "answer": "Romeo and Juliet was written by William Shakespeare. The tragedy tells of two young lovers from rival families in Verona.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the great gatsby",
+    "answer": "The Great Gatsby was written by F. Scott Fitzgerald. It follows Jay Gatsby and critiques wealth and the American Dream in the 1920s.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the great gatsby",
+    "answer": "The Great Gatsby was written by F. Scott Fitzgerald. It follows Jay Gatsby and critiques wealth and the American Dream in the 1920s.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the great gatsby",
+    "answer": "The Great Gatsby was written by F. Scott Fitzgerald. It follows Jay Gatsby and critiques wealth and the American Dream in the 1920s.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the great gatsby",
+    "answer": "The Great Gatsby was written by F. Scott Fitzgerald. It follows Jay Gatsby and critiques wealth and the American Dream in the 1920s.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote moby-dick",
+    "answer": "Moby-Dick was written by Herman Melville. It follows Captain Ahab?s obsessive pursuit of a white whale.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of moby-dick",
+    "answer": "Moby-Dick was written by Herman Melville. It follows Captain Ahab?s obsessive pursuit of a white whale.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of moby-dick",
+    "answer": "Moby-Dick was written by Herman Melville. It follows Captain Ahab?s obsessive pursuit of a white whale.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote moby-dick",
+    "answer": "Moby-Dick was written by Herman Melville. It follows Captain Ahab?s obsessive pursuit of a white whale.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the hobbit",
+    "answer": "The Hobbit was written by J. R. R. Tolkien. Bilbo Baggins joins a quest with dwarves to reclaim their homeland and treasure.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the hobbit",
+    "answer": "The Hobbit was written by J. R. R. Tolkien. Bilbo Baggins joins a quest with dwarves to reclaim their homeland and treasure.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the hobbit",
+    "answer": "The Hobbit was written by J. R. R. Tolkien. Bilbo Baggins joins a quest with dwarves to reclaim their homeland and treasure.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the hobbit",
+    "answer": "The Hobbit was written by J. R. R. Tolkien. Bilbo Baggins joins a quest with dwarves to reclaim their homeland and treasure.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the lord of the rings",
+    "answer": "The Lord of the Rings was written by J. R. R. Tolkien. The fantasy story follows a quest to destroy the One Ring.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the lord of the rings",
+    "answer": "The Lord of the Rings was written by J. R. R. Tolkien. The fantasy story follows a quest to destroy the One Ring.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the lord of the rings",
+    "answer": "The Lord of the Rings was written by J. R. R. Tolkien. The fantasy story follows a quest to destroy the One Ring.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the lord of the rings",
+    "answer": "The Lord of the Rings was written by J. R. R. Tolkien. The fantasy story follows a quest to destroy the One Ring.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote jane eyre",
+    "answer": "Jane Eyre was written by Charlotte Bront?. The novel follows Jane?s growth, independence, and relationship with Edward Rochester.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of jane eyre",
+    "answer": "Jane Eyre was written by Charlotte Bront?. The novel follows Jane?s growth, independence, and relationship with Edward Rochester.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of jane eyre",
+    "answer": "Jane Eyre was written by Charlotte Bront?. The novel follows Jane?s growth, independence, and relationship with Edward Rochester.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote jane eyre",
+    "answer": "Jane Eyre was written by Charlotte Bront?. The novel follows Jane?s growth, independence, and relationship with Edward Rochester.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote wuthering heights",
+    "answer": "Wuthering Heights was written by Emily Bront?. The novel centers on the destructive relationship between Catherine Earnshaw and Heathcliff.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of wuthering heights",
+    "answer": "Wuthering Heights was written by Emily Bront?. The novel centers on the destructive relationship between Catherine Earnshaw and Heathcliff.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of wuthering heights",
+    "answer": "Wuthering Heights was written by Emily Bront?. The novel centers on the destructive relationship between Catherine Earnshaw and Heathcliff.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote wuthering heights",
+    "answer": "Wuthering Heights was written by Emily Bront?. The novel centers on the destructive relationship between Catherine Earnshaw and Heathcliff.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the adventures of sherlock holmes",
+    "answer": "The Adventures of Sherlock Holmes was written by Arthur Conan Doyle. The collection features detective Sherlock Holmes and Dr. John Watson.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the adventures of sherlock holmes",
+    "answer": "The Adventures of Sherlock Holmes was written by Arthur Conan Doyle. The collection features detective Sherlock Holmes and Dr. John Watson.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the adventures of sherlock holmes",
+    "answer": "The Adventures of Sherlock Holmes was written by Arthur Conan Doyle. The collection features detective Sherlock Holmes and Dr. John Watson.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the adventures of sherlock holmes",
+    "answer": "The Adventures of Sherlock Holmes was written by Arthur Conan Doyle. The collection features detective Sherlock Holmes and Dr. John Watson.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote alice?s adventures in wonderland",
+    "answer": "Alice?s Adventures in Wonderland was written by Lewis Carroll. Alice follows a white rabbit into a world of strange characters and events.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of alice?s adventures in wonderland",
+    "answer": "Alice?s Adventures in Wonderland was written by Lewis Carroll. Alice follows a white rabbit into a world of strange characters and events.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of alice?s adventures in wonderland",
+    "answer": "Alice?s Adventures in Wonderland was written by Lewis Carroll. Alice follows a white rabbit into a world of strange characters and events.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote alice?s adventures in wonderland",
+    "answer": "Alice?s Adventures in Wonderland was written by Lewis Carroll. Alice follows a white rabbit into a world of strange characters and events.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote oliver twist",
+    "answer": "Oliver Twist was written by Charles Dickens. The novel follows an orphan navigating poverty and crime in Victorian London.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of oliver twist",
+    "answer": "Oliver Twist was written by Charles Dickens. The novel follows an orphan navigating poverty and crime in Victorian London.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of oliver twist",
+    "answer": "Oliver Twist was written by Charles Dickens. The novel follows an orphan navigating poverty and crime in Victorian London.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote oliver twist",
+    "answer": "Oliver Twist was written by Charles Dickens. The novel follows an orphan navigating poverty and crime in Victorian London.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote a tale of two cities",
+    "answer": "A Tale of Two Cities was written by Charles Dickens. The historical novel is set in London and Paris during the French Revolution.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of a tale of two cities",
+    "answer": "A Tale of Two Cities was written by Charles Dickens. The historical novel is set in London and Paris during the French Revolution.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of a tale of two cities",
+    "answer": "A Tale of Two Cities was written by Charles Dickens. The historical novel is set in London and Paris during the French Revolution.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote a tale of two cities",
+    "answer": "A Tale of Two Cities was written by Charles Dickens. The historical novel is set in London and Paris during the French Revolution.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the old man and the sea",
+    "answer": "The Old Man and the Sea was written by Ernest Hemingway. It tells of the Cuban fisherman Santiago?s struggle with a great marlin.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the old man and the sea",
+    "answer": "The Old Man and the Sea was written by Ernest Hemingway. It tells of the Cuban fisherman Santiago?s struggle with a great marlin.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the old man and the sea",
+    "answer": "The Old Man and the Sea was written by Ernest Hemingway. It tells of the Cuban fisherman Santiago?s struggle with a great marlin.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the old man and the sea",
+    "answer": "The Old Man and the Sea was written by Ernest Hemingway. It tells of the Cuban fisherman Santiago?s struggle with a great marlin.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the canterbury tales",
+    "answer": "The Canterbury Tales was written by Geoffrey Chaucer. It is a collection of stories told by pilgrims traveling to Canterbury.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the canterbury tales",
+    "answer": "The Canterbury Tales was written by Geoffrey Chaucer. It is a collection of stories told by pilgrims traveling to Canterbury.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the canterbury tales",
+    "answer": "The Canterbury Tales was written by Geoffrey Chaucer. It is a collection of stories told by pilgrims traveling to Canterbury.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the canterbury tales",
+    "answer": "The Canterbury Tales was written by Geoffrey Chaucer. It is a collection of stories told by pilgrims traveling to Canterbury.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote dracula",
+    "answer": "Dracula was written by Bram Stoker. The Gothic novel tells of Count Dracula and the people who try to stop him.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of dracula",
+    "answer": "Dracula was written by Bram Stoker. The Gothic novel tells of Count Dracula and the people who try to stop him.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of dracula",
+    "answer": "Dracula was written by Bram Stoker. The Gothic novel tells of Count Dracula and the people who try to stop him.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote dracula",
+    "answer": "Dracula was written by Bram Stoker. The Gothic novel tells of Count Dracula and the people who try to stop him.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the picture of dorian gray",
+    "answer": "The Picture of Dorian Gray was written by Oscar Wilde. It explores vanity and moral responsibility through a portrait that changes while Dorian does not visibly age.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the picture of dorian gray",
+    "answer": "The Picture of Dorian Gray was written by Oscar Wilde. It explores vanity and moral responsibility through a portrait that changes while Dorian does not visibly age.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the picture of dorian gray",
+    "answer": "The Picture of Dorian Gray was written by Oscar Wilde. It explores vanity and moral responsibility through a portrait that changes while Dorian does not visibly age.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the picture of dorian gray",
+    "answer": "The Picture of Dorian Gray was written by Oscar Wilde. It explores vanity and moral responsibility through a portrait that changes while Dorian does not visibly age.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the grapes of wrath",
+    "answer": "The Grapes of Wrath was written by John Steinbeck. It follows the Joad family?s migration during the Great Depression.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the grapes of wrath",
+    "answer": "The Grapes of Wrath was written by John Steinbeck. It follows the Joad family?s migration during the Great Depression.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the grapes of wrath",
+    "answer": "The Grapes of Wrath was written by John Steinbeck. It follows the Joad family?s migration during the Great Depression.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the grapes of wrath",
+    "answer": "The Grapes of Wrath was written by John Steinbeck. It follows the Joad family?s migration during the Great Depression.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the catcher in the rye",
+    "answer": "The Catcher in the Rye was written by J. D. Salinger. The novel follows teenager Holden Caulfield over several days in New York City.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the catcher in the rye",
+    "answer": "The Catcher in the Rye was written by J. D. Salinger. The novel follows teenager Holden Caulfield over several days in New York City.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the catcher in the rye",
+    "answer": "The Catcher in the Rye was written by J. D. Salinger. The novel follows teenager Holden Caulfield over several days in New York City.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the catcher in the rye",
+    "answer": "The Catcher in the Rye was written by J. D. Salinger. The novel follows teenager Holden Caulfield over several days in New York City.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the handmaid?s tale",
+    "answer": "The Handmaid?s Tale was written by Margaret Atwood. The dystopian novel depicts a theocratic society that controls women?s reproductive lives.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the handmaid?s tale",
+    "answer": "The Handmaid?s Tale was written by Margaret Atwood. The dystopian novel depicts a theocratic society that controls women?s reproductive lives.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the handmaid?s tale",
+    "answer": "The Handmaid?s Tale was written by Margaret Atwood. The dystopian novel depicts a theocratic society that controls women?s reproductive lives.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the handmaid?s tale",
+    "answer": "The Handmaid?s Tale was written by Margaret Atwood. The dystopian novel depicts a theocratic society that controls women?s reproductive lives.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who wrote the color purple",
+    "answer": "The Color Purple was written by Alice Walker. The novel follows Celie?s life and relationships in the early-20th-century American South.",
+    "topic": "English literature"
+  },
+  {
+    "question": "who is the author of the color purple",
+    "answer": "The Color Purple was written by Alice Walker. The novel follows Celie?s life and relationships in the early-20th-century American South.",
+    "topic": "English literature"
+  },
+  {
+    "question": "name the writer of the color purple",
+    "answer": "The Color Purple was written by Alice Walker. The novel follows Celie?s life and relationships in the early-20th-century American South.",
+    "topic": "English literature"
+  },
+  {
+    "question": "which author wrote the color purple",
+    "answer": "The Color Purple was written by Alice Walker. The novel follows Celie?s life and relationships in the early-20th-century American South.",
+    "topic": "English literature"
+  }
+]
