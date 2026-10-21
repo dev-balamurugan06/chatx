@@ -238,10 +238,8 @@ button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 2px
   box-shadow: 0 32px 100px rgba(0, 0, 0, 0.56), 0 1px 0 rgba(255, 255, 255, 0.035) inset;
   backdrop-filter: blur(18px);
 }
-.auth-brand { display: flex; flex-direction: column; align-items: center; gap: 11px; margin-bottom: 28px; color: #f2f5f4; font-size: 19px; letter-spacing: -0.04em; }
+.auth-brand { display: flex; justify-content: center; margin-bottom: 28px; color: #f2f5f4; font-size: 19px; letter-spacing: -0.04em; }
 .auth-brand strong { font-weight: 700; }
-.auth-brand-mark { display: grid; width: 48px; height: 48px; place-items: center; border: 1px solid rgba(110, 235, 182, 0.48); border-radius: 16px; background: linear-gradient(145deg, #38d99b, #159968); box-shadow: 0 8px 28px rgba(35, 200, 139, 0.24), inset 0 1px 0 rgba(255, 255, 255, 0.35); }
-.auth-brand-mark svg { width: 26px; height: 26px; stroke: #062719; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .auth-heading { margin-bottom: 25px; text-align: center; }
 .auth-kicker { display: block; margin-bottom: 9px; color: #75d7ab; font-size: 9px; font-weight: 750; letter-spacing: 0.16em; }
 .auth-heading h1 { margin: 0; color: #f0f3f4; font-size: clamp(24px, 5vw, 28px); font-weight: 650; letter-spacing: -0.045em; }
@@ -260,8 +258,7 @@ button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 2px
 .auth-switch { margin: 20px 0 0; color: #929ba1; text-align: center; font-size: 11px; }
 .auth-switch button { padding: 0; border: 0; background: transparent; color: #76ddb0; font-size: inherit; font-weight: 650; cursor: pointer; }
 .auth-switch button:hover { color: #a2f0ca; text-decoration: underline; text-underline-offset: 3px; }
-.auth-footnote { display: flex; align-items: center; justify-content: center; gap: 7px; margin-top: 24px; padding-top: 17px; border-top: 1px solid rgba(255, 255, 255, 0.07); color: #737d81; font-size: 10px; }
-.auth-footnote span { color: #62c99b; font-size: 12px; }
+.auth-footnote { display: flex; align-items: center; justify-content: center; margin-top: 24px; padding-top: 17px; border-top: 1px solid rgba(255, 255, 255, 0.07); color: #737d81; font-size: 10px; }
 
 @media (max-width: 900px) {
   .sidebar { position: fixed; z-index: 12; inset: 0 auto 0 0; flex-basis: min(84vw, var(--sidebar-width, 284px)); width: min(84vw, var(--sidebar-width, 284px)); height: 100dvh; transform: translateX(-105%); transition: transform 180ms ease; box-shadow: 18px 0 60px #0008; }

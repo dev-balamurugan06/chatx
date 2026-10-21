@@ -26,7 +26,7 @@ export default function Login({ onLogin, onSwitchSignup }) {
   return (
     <main className="auth-screen">
       <form className="auth-card" onSubmit={handleLogin} aria-labelledby="login-heading">
-        <div className="auth-brand" aria-label="Chat X"><span className="auth-brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M5 5.75A2.75 2.75 0 0 1 7.75 3h8.5A2.75 2.75 0 0 1 19 5.75v7.5A2.75 2.75 0 0 1 16.25 16H11l-4.5 3v-3.1A2.75 2.75 0 0 1 5 13.25v-7.5Z"/><path d="m9 7.5 6 6m0-6-6 6"/></svg></span><strong>Chat X</strong></div>
+        <div className="auth-brand"><strong>Chat X</strong></div>
         <div className="auth-heading">
           <span className="auth-kicker">YOUR SPACE TO THINK</span>
           <h1 id="login-heading">Welcome back</h1>
@@ -46,7 +46,7 @@ export default function Login({ onLogin, onSwitchSignup }) {
           {!loading && <span className="auth-submit-arrow" aria-hidden="true">→</span>}
         </button>
         <p className="auth-switch">New to Chat X? <button type="button" onClick={onSwitchSignup}>Create an account</button></p>
-        <div className="auth-footnote"><span aria-hidden="true">✦</span> A calmer space for better conversations</div>
+        <div className="auth-footnote">A calmer space for better conversations</div>
       </form>
     </main>
   );
